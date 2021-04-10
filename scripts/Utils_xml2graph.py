@@ -1,8 +1,4 @@
 import xml.etree.ElementTree as ET
-import math, sys, os
-from matplotlib import pyplot as plt
-from matplotlib import collections  as mc
-import pylab as pl
 import numpy as np
 import glob
 import cv2

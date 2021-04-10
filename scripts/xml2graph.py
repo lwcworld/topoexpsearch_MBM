@@ -1,4 +1,5 @@
-from Utils_datagen import *
+from Utils_xml2graph import *
+from matplotlib import pyplot as plt
 
 category_substrs = {
     'lab': ['lab', 'TEKNUTR', 'MIKROSK', 'LAB', 'ARB', 'EXPERIMENTHALL', 'ELEKTROKEM', 'FORSK', 'MÄTRUM', 'VÅGRUM',
@@ -54,3 +55,32 @@ map_name_list = ['0510032194_A_40_1_102',
 
 
 dir_map = '../dataset/dataset_kth/*/'
+dir_save_json = '../dataset/dataset_graph_floorplan_json/'
+is_show = True
+
+# extract list of networkx graphs from maps
+G_list = []
+for map_name in map_name_list:
+  xml_file = glob.glob(dir_map + map_name + '.xml')[0]
+  G = get_topology_from_xml(xml_file, category_substrs)
+
+  if is_show == True:
+    pos = nx.get_node_attributes(G, 'pos')
+    nx.draw(G, pos, labels=nx.get_node_attributes(G, 'type'))  # networkx draw()
+    plt.draw()
+    plt.show()
+  G_list.append(G)
+
+# save graphs as json
+for i_G, G in enumerate(G_list):
+  dict_G = {}
+  E = [[v1,v2] for (v1,v2) in list(nx.edges(G))]
+  C = {str(n):str(imap_category[c]) for n, c in nx.get_node_attributes(G, 'type').items()}
+
+  dict_G["edges"] = E
+  dict_G["features"] = C
+
+  with open(dir_save_json + str(i_G) + '.json', 'w') as outfile:
+    json.dump(dict_G, outfile)
+
+print('save done')
