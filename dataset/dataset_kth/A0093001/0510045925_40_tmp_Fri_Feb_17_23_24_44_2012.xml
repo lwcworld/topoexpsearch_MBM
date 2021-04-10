@@ -1,0 +1,1820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<floor BuildingName="A0093001" FloorName="0510045925_40">
+    <Domain name="KTH"/>
+    <Scale PixelDistance="1576.04" RealDistance="20"/>
+    <space name="A0093001_122" type="U-CENTRAL">
+        <contour>
+            <centroid x="9803.07" y="4750.52"/>
+            <linesegment x1="9917.05" y1="5282.23" x2="9883.46" y2="5215.83" type="Wall" target=""/>
+            <linesegment x1="9883.46" y1="5215.83" x2="9910.94" y2="5201.07" type="Wall" target=""/>
+            <linesegment x1="9910.94" y1="5201.07" x2="9900.66" y2="5181.81" type="Wall" target=""/>
+            <linesegment x1="9900.66" y1="5181.81" x2="9873" y2="5194.52" type="Wall" target=""/>
+            <linesegment x1="9873" y1="5194.52" x2="9824.32" y2="5099" type="Wall" target=""/>
+            <linesegment x1="9824.32" y1="5099" x2="9851.6" y2="5085.01" type="Wall" target=""/>
+            <linesegment x1="9851.6" y1="5085.01" x2="9840.29" y2="5065.08" type="Wall" target=""/>
+            <linesegment x1="9840.29" y1="5065.08" x2="9814.99" y2="5078.5" type="Wall" target=""/>
+            <linesegment x1="9814.99" y1="5078.5" x2="9779.94" y2="5011.64" type="Wall" target=""/>
+            <linesegment x1="9779.94" y1="5011.64" x2="9806.98" y2="4996.46" type="Wall" target=""/>
+            <linesegment x1="9806.98" y1="4996.46" x2="9796.48" y2="4976.89" type="Wall" target=""/>
+            <linesegment x1="9796.48" y1="4976.89" x2="9770.33" y2="4989.89" type="Wall" target=""/>
+            <linesegment x1="9770.33" y1="4989.89" x2="9721.04" y2="4896.03" type="Wall" target=""/>
+            <linesegment x1="9721.04" y1="4896.03" x2="9748.91" y2="4881.36" type="Wall" target=""/>
+            <linesegment x1="9748.91" y1="4881.36" x2="9738.03" y2="4861.7" type="Wall" target=""/>
+            <linesegment x1="9738.03" y1="4861.7" x2="9710.4" y2="4875.35" type="Wall" target=""/>
+            <linesegment x1="9710.4" y1="4875.35" x2="9676.18" y2="4808.37" type="Wall" target=""/>
+            <linesegment x1="9676.18" y1="4808.37" x2="9703.41" y2="4793.92" type="Wall" target=""/>
+            <linesegment x1="9703.41" y1="4793.92" x2="9692.68" y2="4774.58" type="Wall" target=""/>
+            <linesegment x1="9692.68" y1="4774.58" x2="9665.7" y2="4787.1" type="Wall" target=""/>
+            <linesegment x1="9665.7" y1="4787.1" x2="9616.14" y2="4691.4" type="Wall" target=""/>
+            <linesegment x1="9616.14" y1="4691.4" x2="9643.42" y2="4676.99" type="Wall" target=""/>
+            <linesegment x1="9643.42" y1="4676.99" x2="9633.67" y2="4658.62" type="Wall" target=""/>
+            <linesegment x1="9633.67" y1="4658.62" x2="9606.25" y2="4670.63" type="Wall" target=""/>
+            <linesegment x1="9606.25" y1="4670.63" x2="9572.47" y2="4604.35" type="Wall" target=""/>
+            <linesegment x1="9572.47" y1="4604.35" x2="9600.03" y2="4590.11" type="Wall" target=""/>
+            <linesegment x1="9600.03" y1="4590.11" x2="9589.95" y2="4570.45" type="Wall" target=""/>
+            <linesegment x1="9589.95" y1="4570.45" x2="9562.42" y2="4584.21" type="Wall" target=""/>
+            <linesegment x1="9562.42" y1="4584.21" x2="9521.97" y2="4505.74" type="Wall" target=""/>
+            <linesegment x1="9521.97" y1="4505.74" x2="9550.13" y2="4491.42" type="Wall" target=""/>
+            <linesegment x1="9550.13" y1="4491.42" x2="9539.68" y2="4471.52" type="Wall" target=""/>
+            <linesegment x1="9539.68" y1="4471.52" x2="9511.17" y2="4485.17" type="Wall" target=""/>
+            <linesegment x1="9511.17" y1="4485.17" x2="9439.98" y2="4346.25" type="Wall" target=""/>
+            <linesegment x1="9439.98" y1="4346.25" x2="9685.13" y2="4222.99" type="Wall" target=""/>
+            <linesegment x1="9685.13" y1="4222.99" x2="10161.7" y2="5157.99" type="Wall" target=""/>
+            <linesegment x1="10161.7" y1="5157.99" x2="10155.4" y2="5162.29" type="Wall" target=""/>
+            <linesegment x1="10155.4" y1="5162.29" x2="10090.5" y2="5194.1" type="Portal" target="A0093001_118"/>
+            <linesegment x1="10090.5" y1="5194.1" x2="9917.05" y2="5282.23" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_118"/>
+    </space>
+    <space name="A0093001_121" type="">
+        <contour>
+            <centroid x="10079.1" y="5409.57"/>
+            <linesegment x1="10078.2" y1="5596.98" x2="10030.7" y2="5502.41" type="Wall" target=""/>
+            <linesegment x1="10030.7" y1="5502.41" x2="10057.2" y2="5487.79" type="Wall" target=""/>
+            <linesegment x1="10057.2" y1="5487.79" x2="10046.3" y2="5468.15" type="Wall" target=""/>
+            <linesegment x1="10046.3" y1="5468.15" x2="10019.9" y2="5481.43" type="Wall" target=""/>
+            <linesegment x1="10019.9" y1="5481.43" x2="9984.7" y2="5414.7" type="Wall" target=""/>
+            <linesegment x1="9984.7" y1="5414.7" x2="10012.3" y2="5399.61" type="Wall" target=""/>
+            <linesegment x1="10012.3" y1="5399.61" x2="10002" y2="5380.68" type="Wall" target=""/>
+            <linesegment x1="10002" y1="5380.68" x2="9974.49" y2="5394.7" type="Wall" target=""/>
+            <linesegment x1="9974.49" y1="5394.7" x2="9925.89" y2="5299.38" type="Wall" target=""/>
+            <linesegment x1="9925.89" y1="5299.38" x2="10076.2" y2="5223.31" type="Wall" target=""/>
+            <linesegment x1="10076.2" y1="5223.31" x2="10137.5" y2="5341.91" type="Wall" target=""/>
+            <linesegment x1="10137.5" y1="5341.91" x2="10168.2" y2="5402.92" type="Portal" target="A0093001_118"/>
+            <linesegment x1="10168.2" y1="5402.92" x2="10228.9" y2="5523.41" type="Wall" target=""/>
+            <linesegment x1="10228.9" y1="5523.41" x2="10078.2" y2="5596.98" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_118"/>
+    </space>
+    <space name="A0093001_118" type="">
+        <contour>
+            <centroid x="10318.2" y="5546.07"/>
+            <linesegment x1="10445.8" y1="5922.14" x2="10177.8" y2="5396.15" type="Wall" target=""/>
+            <linesegment x1="10177.8" y1="5396.15" x2="10145.3" y2="5334.89" type="Portal" target="A0093001_121"/>
+            <linesegment x1="10145.3" y1="5334.89" x2="10087.3" y2="5217.63" type="Wall" target=""/>
+            <linesegment x1="10087.3" y1="5217.63" x2="10104" y2="5208.7" type="Wall" target=""/>
+            <linesegment x1="10104" y1="5208.7" x2="10165.7" y2="5175.55" type="Portal" target="A0093001_122"/>
+            <linesegment x1="10165.7" y1="5175.55" x2="10187.2" y2="5165.42" type="Wall" target=""/>
+            <linesegment x1="10187.2" y1="5165.42" x2="10363.4" y2="5508.95" type="Wall" target=""/>
+            <linesegment x1="10363.4" y1="5508.95" x2="10406.3" y2="5591.33" type="Portal" target="A0093001_202"/>
+            <linesegment x1="10406.3" y1="5591.33" x2="10549.5" y2="5873.71" type="Wall" target=""/>
+            <linesegment x1="10549.5" y1="5873.71" x2="10447.5" y2="5925.89" type="Portal" target="A0093001_101"/>
+            <linesegment x1="10447.5" y1="5925.89" x2="10445.8" y2="5922.14" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_122"/>
+        <portal target="A0093001_121"/>
+        <portal target="A0093001_101"/>
+        <portal target="A0093001_202"/>
+    </space>
+    <space name="A0093001_115" type="">
+        <contour>
+            <centroid x="10025.7" y="6022.22"/>
+            <linesegment x1="9995.61" y1="6144.26" x2="9907.66" y2="5969.26" type="Wall" target=""/>
+            <linesegment x1="9907.66" y1="5969.26" x2="10052.1" y2="5896.17" type="Wall" target=""/>
+            <linesegment x1="10052.1" y1="5896.17" x2="10143.9" y2="6076.11" type="Wall" target=""/>
+            <linesegment x1="10143.9" y1="6076.11" x2="10077.4" y2="6110.84" type="Portal" target="A0093001_111"/>
+            <linesegment x1="10077.4" y1="6110.84" x2="9995.61" y2="6144.26" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_111"/>
+    </space>
+    <space name="A0093001_116" type="">
+        <contour>
+            <centroid x="10177.9" y="5946.17"/>
+            <linesegment x1="10154.5" y1="6068.79" x2="10120" y2="6000.21" type="Wall" target=""/>
+            <linesegment x1="10120" y1="6000.21" x2="10138.1" y2="5989.75" type="Wall" target=""/>
+            <linesegment x1="10138.1" y1="5989.75" x2="10124.2" y2="5962.66" type="Wall" target=""/>
+            <linesegment x1="10124.2" y1="5962.66" x2="10105.8" y2="5971.98" type="Wall" target=""/>
+            <linesegment x1="10105.8" y1="5971.98" x2="10064.5" y2="5890.01" type="Wall" target=""/>
+            <linesegment x1="10064.5" y1="5890.01" x2="10200.1" y2="5821.04" type="Wall" target=""/>
+            <linesegment x1="10200.1" y1="5821.04" x2="10230.5" y2="5881.78" type="Wall" target=""/>
+            <linesegment x1="10230.5" y1="5881.78" x2="10207.4" y2="5893.93" type="Wall" target=""/>
+            <linesegment x1="10207.4" y1="5893.93" x2="10221.2" y2="5922.34" type="Wall" target=""/>
+            <linesegment x1="10221.2" y1="5922.34" x2="10245.3" y2="5909.82" type="Wall" target=""/>
+            <linesegment x1="10245.3" y1="5909.82" x2="10291.5" y2="6000.16" type="Wall" target=""/>
+            <linesegment x1="10291.5" y1="6000.16" x2="10247" y2="6024.63" type="Wall" target=""/>
+            <linesegment x1="10247" y1="6024.63" x2="10182.4" y2="6056.24" type="Portal" target="A0093001_111"/>
+            <linesegment x1="10182.4" y1="6056.24" x2="10154.5" y2="6068.79" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_111"/>
+    </space>
+    <space name="A0093001_113" type="">
+        <contour>
+            <centroid x="10009.2" y="6390.52"/>
+            <linesegment x1="9988.73" y1="6443.12" x2="9954.02" y2="6376.08" type="Wall" target=""/>
+            <linesegment x1="9954.02" y1="6376.08" x2="9966.7" y2="6369.63" type="Wall" target=""/>
+            <linesegment x1="9966.7" y1="6369.63" x2="10020" y2="6342" type="Portal" target="A0093001_112"/>
+            <linesegment x1="10020" y1="6342" x2="10029.4" y2="6336.97" type="Wall" target=""/>
+            <linesegment x1="10029.4" y1="6336.97" x2="10064.1" y2="6406.36" type="Wall" target=""/>
+            <linesegment x1="10064.1" y1="6406.36" x2="9988.73" y2="6443.12" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_112"/>
+    </space>
+    <space name="A0093001_112" type="TRAPPA">
+        <contour>
+            <centroid x="10076.9" y="6380.51"/>
+            <linesegment x1="10083.2" y1="6627.34" x2="10001.9" y2="6468.05" type="Wall" target=""/>
+            <linesegment x1="10001.9" y1="6468.05" x2="10088.8" y2="6423.09" type="Wall" target=""/>
+            <linesegment x1="10088.8" y1="6423.09" x2="10035.2" y2="6321.01" type="Wall" target=""/>
+            <linesegment x1="10035.2" y1="6321.01" x2="10013.5" y2="6333.86" type="Wall" target=""/>
+            <linesegment x1="10013.5" y1="6333.86" x2="9961.54" y2="6359.53" type="Portal" target="A0093001_113"/>
+            <linesegment x1="9961.54" y1="6359.53" x2="9949.94" y2="6365.33" type="Wall" target=""/>
+            <linesegment x1="9949.94" y1="6365.33" x2="9879.63" y2="6227.02" type="Wall" target=""/>
+            <linesegment x1="9879.63" y1="6227.02" x2="10059.7" y2="6139.05" type="Wall" target=""/>
+            <linesegment x1="10059.7" y1="6139.05" x2="10079.2" y2="6176.27" type="Wall" target=""/>
+            <linesegment x1="10079.2" y1="6176.27" x2="10109.6" y2="6239.29" type="Portal" target="A0093001_111"/>
+            <linesegment x1="10109.6" y1="6239.29" x2="10258.2" y2="6538.89" type="Wall" target=""/>
+            <linesegment x1="10258.2" y1="6538.89" x2="10083.2" y2="6627.34" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_113"/>
+        <portal target="A0093001_111"/>
+    </space>
+    <space name="A0093001_110" type="TOALETT">
+        <contour>
+            <centroid x="10219.8" y="6299.34"/>
+            <linesegment x1="10194.6" y1="6367.36" x2="10149.1" y2="6279.52" type="Wall" target=""/>
+            <linesegment x1="10149.1" y1="6279.52" x2="10244.9" y2="6231.3" type="Wall" target=""/>
+            <linesegment x1="10244.9" y1="6231.3" x2="10261.8" y2="6262.8" type="Wall" target=""/>
+            <linesegment x1="10261.8" y1="6262.8" x2="10288" y2="6315.68" type="Portal" target="A0093001_109"/>
+            <linesegment x1="10288" y1="6315.68" x2="10289.8" y2="6319.98" type="Wall" target=""/>
+            <linesegment x1="10289.8" y1="6319.98" x2="10194.6" y2="6367.36" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_109"/>
+    </space>
+    <space name="A0093001_109" type="">
+        <contour>
+            <centroid x="10339.2" y="6364.81"/>
+            <linesegment x1="10276.6" y1="6528.26" x2="10203.6" y2="6386.24" type="Wall" target=""/>
+            <linesegment x1="10203.6" y1="6386.24" x2="10309.8" y2="6330.94" type="Wall" target=""/>
+            <linesegment x1="10309.8" y1="6330.94" x2="10297.5" y2="6310.09" type="Wall" target=""/>
+            <linesegment x1="10297.5" y1="6310.09" x2="10269.8" y2="6256.19" type="Portal" target="A0093001_110"/>
+            <linesegment x1="10269.8" y1="6256.19" x2="10255.2" y2="6225.63" type="Wall" target=""/>
+            <linesegment x1="10255.2" y1="6225.63" x2="10281" y2="6211.33" type="Wall" target=""/>
+            <linesegment x1="10281" y1="6211.33" x2="10334.1" y2="6184.96" type="Portal" target="A0093001_111"/>
+            <linesegment x1="10334.1" y1="6184.96" x2="10352.5" y2="6174.65" type="Wall" target=""/>
+            <linesegment x1="10352.5" y1="6174.65" x2="10480.9" y2="6424.18" type="Wall" target=""/>
+            <linesegment x1="10480.9" y1="6424.18" x2="10276.6" y2="6528.26" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_110"/>
+        <portal target="A0093001_111"/>
+    </space>
+    <space name="A0093001_111" type="">
+        <contour>
+            <centroid x="10211.5" y="6147.16"/>
+            <linesegment x1="10139.3" y1="6270" x2="10119.3" y2="6231.65" type="Wall" target=""/>
+            <linesegment x1="10119.3" y1="6231.65" x2="10087.7" y2="6170.04" type="Portal" target="A0093001_112"/>
+            <linesegment x1="10087.7" y1="6170.04" x2="10069" y2="6134.4" type="Wall" target=""/>
+            <linesegment x1="10069" y1="6134.4" x2="10088.3" y2="6123.22" type="Wall" target=""/>
+            <linesegment x1="10088.3" y1="6123.22" x2="10150.1" y2="6091.41" type="Portal" target="A0093001_115"/>
+            <linesegment x1="10150.1" y1="6091.41" x2="10191.3" y2="6070.18" type="Wall" target=""/>
+            <linesegment x1="10191.3" y1="6070.18" x2="10254.5" y2="6038.48" type="Portal" target="A0093001_116"/>
+            <linesegment x1="10254.5" y1="6038.48" x2="10283.8" y2="6023.52" type="Wall" target=""/>
+            <linesegment x1="10283.8" y1="6023.52" x2="10321.2" y2="6099.04" type="Portal" target="A0093001_101"/>
+            <linesegment x1="10321.2" y1="6099.04" x2="10354.5" y2="6161.39" type="Wall" target=""/>
+            <linesegment x1="10354.5" y1="6161.39" x2="10328.1" y2="6175.6" type="Wall" target=""/>
+            <linesegment x1="10328.1" y1="6175.6" x2="10274.2" y2="6202.49" type="Portal" target="A0093001_109"/>
+            <linesegment x1="10274.2" y1="6202.49" x2="10139.3" y2="6270" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_115"/>
+        <portal target="A0093001_116"/>
+        <portal target="A0093001_112"/>
+        <portal target="A0093001_109"/>
+        <portal target="A0093001_101"/>
+    </space>
+    <space name="A0093001_107" type="">
+        <contour>
+            <centroid x="10643" y="6297.27"/>
+            <linesegment x1="10580" y1="6586.08" x2="10415" y2="6265.37" type="Wall" target=""/>
+            <linesegment x1="10415" y1="6265.37" x2="10445.3" y2="6249.69" type="Wall" target=""/>
+            <linesegment x1="10445.3" y1="6249.69" x2="10435.1" y2="6229.53" type="Wall" target=""/>
+            <linesegment x1="10435.1" y1="6229.53" x2="10404.6" y2="6244.65" type="Wall" target=""/>
+            <linesegment x1="10404.6" y1="6244.65" x2="10370" y2="6178.03" type="Wall" target=""/>
+            <linesegment x1="10370" y1="6178.03" x2="10517.2" y2="6103.74" type="Wall" target=""/>
+            <linesegment x1="10517.2" y1="6103.74" x2="10577.4" y2="6072.79" type="Portal" target="A0093001_101"/>
+            <linesegment x1="10577.4" y1="6072.79" x2="10704.6" y2="6007.82" type="Wall" target=""/>
+            <linesegment x1="10704.6" y1="6007.82" x2="10913.4" y2="6416.28" type="Wall" target=""/>
+            <linesegment x1="10913.4" y1="6416.28" x2="10580" y2="6586.08" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_101"/>
+    </space>
+    <space name="A0093001_105" type="">
+        <contour>
+            <centroid x="11040.4" y="6279.08"/>
+            <linesegment x1="10924" y1="6410.81" x2="10866" y2="6295.97" type="Wall" target=""/>
+            <linesegment x1="10866" y1="6295.97" x2="11027.9" y2="6212.05" type="Wall" target=""/>
+            <linesegment x1="11027.9" y1="6212.05" x2="11082" y2="6185" type="Portal" target="A0093001_105A"/>
+            <linesegment x1="11082" y1="6185" x2="11156.2" y2="6147.37" type="Wall" target=""/>
+            <linesegment x1="11156.2" y1="6147.37" x2="11214.7" y2="6263.4" type="Wall" target=""/>
+            <linesegment x1="11214.7" y1="6263.4" x2="10924" y2="6410.81" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_105A"/>
+    </space>
+    <space name="A0093001_105A" type="">
+        <contour>
+            <centroid x="10979" y="6158.83"/>
+            <linesegment x1="10860.3" y1="6284.31" x2="10807.7" y2="6180.31" type="Wall" target=""/>
+            <linesegment x1="10807.7" y1="6180.31" x2="10836" y2="6165.25" type="Wall" target=""/>
+            <linesegment x1="10836" y1="6165.25" x2="10896.7" y2="6134.13" type="Portal" target="A0093001_106"/>
+            <linesegment x1="10896.7" y1="6134.13" x2="11098.1" y2="6033.04" type="Wall" target=""/>
+            <linesegment x1="11098.1" y1="6033.04" x2="11149.6" y2="6136.66" type="Wall" target=""/>
+            <linesegment x1="11149.6" y1="6136.66" x2="11075.4" y2="6177.02" type="Wall" target=""/>
+            <linesegment x1="11075.4" y1="6177.02" x2="11022.1" y2="6203.45" type="Portal" target="A0093001_105"/>
+            <linesegment x1="11022.1" y1="6203.45" x2="10860.3" y2="6284.31" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_105"/>
+        <portal target="A0093001_106"/>
+    </space>
+    <space name="A0093001_104" type="">
+        <contour>
+            <centroid x="11281.1" y="6161.22"/>
+            <linesegment x1="11226.4" y1="6256.83" x2="11167.5" y2="6142.39" type="Wall" target=""/>
+            <linesegment x1="11167.5" y1="6142.39" x2="11174.5" y2="6138.21" type="Wall" target=""/>
+            <linesegment x1="11174.5" y1="6138.21" x2="11235.6" y2="6107.25" type="Portal" target="A0093001_103"/>
+            <linesegment x1="11235.6" y1="6107.25" x2="11240.9" y2="6104.26" type="Wall" target=""/>
+            <linesegment x1="11240.9" y1="6104.26" x2="11250.3" y2="6118.32" type="Wall" target=""/>
+            <linesegment x1="11250.3" y1="6118.32" x2="11345.5" y2="6069.62" type="Wall" target=""/>
+            <linesegment x1="11345.5" y1="6069.62" x2="11396.5" y2="6169.52" type="Wall" target=""/>
+            <linesegment x1="11396.5" y1="6169.52" x2="11226.4" y2="6256.83" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_103"/>
+    </space>
+    <space name="A0093001_103" type="">
+        <contour>
+            <centroid x="11225" y="6037.81"/>
+            <linesegment x1="11108.6" y1="6025.51" x2="11278.1" y2="5939.74" type="Wall" target=""/>
+            <linesegment x1="11278.1" y1="5939.74" x2="11340.3" y2="6058.99" type="Wall" target=""/>
+            <linesegment x1="11340.3" y1="6058.99" x2="11255.6" y2="6100.77" type="Wall" target=""/>
+            <linesegment x1="11255.6" y1="6100.77" x2="11247.4" y2="6088.41" type="Wall" target=""/>
+            <linesegment x1="11247.4" y1="6088.41" x2="11230.8" y2="6096.56" type="Wall" target=""/>
+            <linesegment x1="11230.8" y1="6096.56" x2="11170.1" y2="6127.84" type="Portal" target="A0093001_104"/>
+            <linesegment x1="11170.1" y1="6127.84" x2="11162.1" y2="6131.54" type="Wall" target=""/>
+            <linesegment x1="11162.1" y1="6131.54" x2="11108.6" y2="6025.51" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_104"/>
+    </space>
+    <space name="A0093001_106" type="">
+        <contour>
+            <centroid x="10822" y="6056.95"/>
+            <linesegment x1="10801.1" y1="6169.35" x2="10716.5" y2="6003.08" type="Wall" target=""/>
+            <linesegment x1="10716.5" y1="6003.08" x2="10744.9" y2="5987.2" type="Wall" target=""/>
+            <linesegment x1="10744.9" y1="5987.2" x2="10805.8" y2="5956.15" type="Portal" target="A0093001_101"/>
+            <linesegment x1="10805.8" y1="5956.15" x2="10812.2" y2="5952.48" type="Wall" target=""/>
+            <linesegment x1="10812.2" y1="5952.48" x2="10827.5" y2="5978.06" type="Wall" target=""/>
+            <linesegment x1="10827.5" y1="5978.06" x2="10856.7" y2="5961.95" type="Wall" target=""/>
+            <linesegment x1="10856.7" y1="5961.95" x2="10928.1" y2="6103.84" type="Wall" target=""/>
+            <linesegment x1="10928.1" y1="6103.84" x2="10889.1" y2="6125.18" type="Wall" target=""/>
+            <linesegment x1="10889.1" y1="6125.18" x2="10829.7" y2="6155.75" type="Portal" target="A0093001_105A"/>
+            <linesegment x1="10829.7" y1="6155.75" x2="10801.1" y2="6169.35" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_105A"/>
+        <portal target="A0093001_101"/>
+    </space>
+    <space name="A0093001_143" type="">
+        <contour>
+            <centroid x="10640.5" y="5760.26"/>
+            <linesegment x1="10565.1" y1="5865.16" x2="10511.8" y2="5758.41" type="Wall" target=""/>
+            <linesegment x1="10511.8" y1="5758.41" x2="10715.8" y2="5654.55" type="Wall" target=""/>
+            <linesegment x1="10715.8" y1="5654.55" x2="10768.5" y2="5761.64" type="Wall" target=""/>
+            <linesegment x1="10768.5" y1="5761.64" x2="10691" y2="5802.51" type="Wall" target=""/>
+            <linesegment x1="10691" y1="5802.51" x2="10630" y2="5833.35" type="Portal" target="A0093001_101"/>
+            <linesegment x1="10630" y1="5833.35" x2="10565.1" y2="5865.16" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_101"/>
+    </space>
+    <space name="A0093001_144" type="">
+        <contour>
+            <centroid x="10916.2" y="5617.48"/>
+            <linesegment x1="10783.8" y1="5747.58" x2="10731.5" y2="5645.45" type="Wall" target=""/>
+            <linesegment x1="10731.5" y1="5645.45" x2="11048" y2="5485.41" type="Wall" target=""/>
+            <linesegment x1="11048" y1="5485.41" x2="11101.3" y2="5588.27" type="Wall" target=""/>
+            <linesegment x1="11101.3" y1="5588.27" x2="10931.3" y2="5675.01" type="Wall" target=""/>
+            <linesegment x1="10931.3" y1="5675.01" x2="10870" y2="5708.89" type="Portal" target="A0093001_101"/>
+            <linesegment x1="10870" y1="5708.89" x2="10783.8" y2="5747.58" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_101"/>
+    </space>
+    <space name="A0093001_117" type="">
+        <contour>
+            <centroid x="10263.4" y="5758.97"/>
+            <linesegment x1="10314.6" y1="5984.17" x2="10211.3" y2="5781.33" type="Wall" target=""/>
+            <linesegment x1="10211.3" y1="5781.33" x2="10183.6" y2="5795.08" type="Wall" target=""/>
+            <linesegment x1="10183.6" y1="5795.08" x2="10138.8" y2="5707.74" type="Wall" target=""/>
+            <linesegment x1="10138.8" y1="5707.74" x2="10166.7" y2="5693.9" type="Wall" target=""/>
+            <linesegment x1="10166.7" y1="5693.9" x2="10152.9" y2="5665.97" type="Wall" target=""/>
+            <linesegment x1="10152.9" y1="5665.97" x2="10123.7" y2="5680.3" type="Wall" target=""/>
+            <linesegment x1="10123.7" y1="5680.3" x2="10094.4" y2="5620.55" type="Wall" target=""/>
+            <linesegment x1="10094.4" y1="5620.55" x2="10121.2" y2="5606.15" type="Wall" target=""/>
+            <linesegment x1="10121.2" y1="5606.15" x2="10119.1" y2="5599.92" type="Wall" target=""/>
+            <linesegment x1="10119.1" y1="5599.92" x2="10233" y2="5543.6" type="Wall" target=""/>
+            <linesegment x1="10233" y1="5543.6" x2="10427.6" y2="5926.87" type="Wall" target=""/>
+            <linesegment x1="10427.6" y1="5926.87" x2="10389.8" y2="5948.19" type="Wall" target=""/>
+            <linesegment x1="10389.8" y1="5948.19" x2="10324.8" y2="5981.44" type="Portal" target="A0093001_101"/>
+            <linesegment x1="10324.8" y1="5981.44" x2="10314.6" y2="5984.17" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_101"/>
+    </space>
+    <space name="A0093001_101" type="KORRIDOR">
+        <contour>
+            <centroid x="10758.7" y="5874.95"/>
+            <linesegment x1="10377.2" y1="6160.33" x2="10351.1" y2="6107.8" type="Wall" target=""/>
+            <linesegment x1="10351.1" y1="6107.8" x2="10367.9" y2="6098.19" type="Wall" target=""/>
+            <linesegment x1="10367.9" y1="6098.19" x2="10358.8" y2="6080.09" type="Wall" target=""/>
+            <linesegment x1="10358.8" y1="6080.09" x2="10321.2" y2="6005.48" type="Portal" target="A0093001_111"/>
+            <linesegment x1="10321.2" y1="6005.48" x2="10336" y2="5997.29" type="Wall" target=""/>
+            <linesegment x1="10336" y1="5997.29" x2="10400.7" y2="5963.96" type="Portal" target="A0093001_117"/>
+            <linesegment x1="10400.7" y1="5963.96" x2="10458.7" y2="5935.01" type="Wall" target=""/>
+            <linesegment x1="10458.7" y1="5935.01" x2="10557.4" y2="5884.43" type="Portal" target="A0093001_118"/>
+            <linesegment x1="10557.4" y1="5884.43" x2="10636.9" y2="5842.7" type="Wall" target=""/>
+            <linesegment x1="10636.9" y1="5842.7" x2="10696.3" y2="5811.69" type="Portal" target="A0093001_143"/>
+            <linesegment x1="10696.3" y1="5811.69" x2="10878.2" y2="5722.2" type="Wall" target=""/>
+            <linesegment x1="10878.2" y1="5722.2" x2="10940.4" y2="5689.64" type="Portal" target="A0093001_144"/>
+            <linesegment x1="10940.4" y1="5689.64" x2="11128.5" y2="5594.32" type="Wall" target=""/>
+            <linesegment x1="11128.5" y1="5594.32" x2="11147.9" y2="5633.23" type="Window" target=""/>
+            <linesegment x1="11147.9" y1="5633.23" x2="11202.9" y2="5740.97" type="Window" target=""/>
+            <linesegment x1="11202.9" y1="5740.97" x2="11184.5" y2="5749.58" type="Wall" target=""/>
+            <linesegment x1="11184.5" y1="5749.58" x2="10800" y2="5947.83" type="Wall" target=""/>
+            <linesegment x1="10800" y1="5947.83" x2="10738.1" y2="5976.71" type="Portal" target="A0093001_106"/>
+            <linesegment x1="10738.1" y1="5976.71" x2="10569.7" y2="6063.32" type="Window" target=""/>
+            <linesegment x1="10569.7" y1="6063.32" x2="10507.5" y2="6094.66" type="Portal" target="A0093001_107"/>
+            <linesegment x1="10507.5" y1="6094.66" x2="10377.2" y2="6160.33" type="Window" target=""/>
+        </contour>
+        <portal target="A0093001_118"/>
+        <portal target="A0093001_111"/>
+        <portal target="A0093001_107"/>
+        <portal target="A0093001_106"/>
+        <portal target="A0093001_143"/>
+        <portal target="A0093001_144"/>
+        <portal target="A0093001_117"/>
+    </space>
+    <space name="A0093001_123" type="">
+        <contour>
+            <centroid x="9857.34" y="4299.19"/>
+            <linesegment x1="9849.32" y1="4450.31" x2="9730.43" y2="4216.72" type="Wall" target=""/>
+            <linesegment x1="9730.43" y1="4216.72" x2="9795.68" y2="4183.11" type="Wall" target=""/>
+            <linesegment x1="9795.68" y1="4183.11" x2="9847.42" y2="4156.2" type="Window" target=""/>
+            <linesegment x1="9847.42" y1="4156.2" x2="9865.04" y2="4147.1" type="Wall" target=""/>
+            <linesegment x1="9865.04" y1="4147.1" x2="9983.79" y2="4380.85" type="Wall" target=""/>
+            <linesegment x1="9983.79" y1="4380.85" x2="9920.51" y2="4415.21" type="Wall" target=""/>
+            <linesegment x1="9920.51" y1="4415.21" x2="9869.02" y2="4441.6" type="Portal" target="A0093001_202"/>
+            <linesegment x1="9869.02" y1="4441.6" x2="9849.32" y2="4450.31" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_202"/>
+    </space>
+    <space name="A0093001_125" type="">
+        <contour>
+            <centroid x="10150.9" y="4214.78"/>
+            <linesegment x1="9879.87" y1="4140.67" x2="10250" y2="3952.48" type="Wall" target=""/>
+            <linesegment x1="10250" y1="3952.48" x2="10422" y2="4292.12" type="Wall" target=""/>
+            <linesegment x1="10422" y1="4292.12" x2="10138.6" y2="4435.31" type="Wall" target=""/>
+            <linesegment x1="10138.6" y1="4435.31" x2="10124.7" y2="4410.12" type="Wall" target=""/>
+            <linesegment x1="10124.7" y1="4410.12" x2="10089.8" y2="4427.41" type="Wall" target=""/>
+            <linesegment x1="10089.8" y1="4427.41" x2="10102.9" y2="4454.48" type="Wall" target=""/>
+            <linesegment x1="10102.9" y1="4454.48" x2="10053.3" y2="4480.42" type="Wall" target=""/>
+            <linesegment x1="10053.3" y1="4480.42" x2="10042.8" y2="4461.62" type="Wall" target=""/>
+            <linesegment x1="10042.8" y1="4461.62" x2="10007.5" y2="4395.37" type="Portal" target="A0093001_202"/>
+            <linesegment x1="10007.5" y1="4395.37" x2="9879.87" y2="4140.67" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_202"/>
+    </space>
+    <space name="A0093001_127" type="">
+        <contour>
+            <centroid x="10399.4" y="4364.14"/>
+            <linesegment x1="10333.7" y1="4352.88" x2="10429" y2="4305.1" type="Wall" target=""/>
+            <linesegment x1="10429" y1="4305.1" x2="10465.6" y2="4374.67" type="Wall" target=""/>
+            <linesegment x1="10465.6" y1="4374.67" x2="10370.2" y2="4423.41" type="Wall" target=""/>
+            <linesegment x1="10370.2" y1="4423.41" x2="10364.2" y2="4412.61" type="Wall" target=""/>
+            <linesegment x1="10364.2" y1="4412.61" x2="10340.2" y2="4366.02" type="Portal" target="A0093001_126"/>
+            <linesegment x1="10340.2" y1="4366.02" x2="10333.7" y2="4352.88" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_126"/>
+    </space>
+    <space name="A0093001_129" type="">
+        <contour>
+            <centroid x="10256.1" y="4590.23"/>
+            <linesegment x1="10233.6" y1="4696.37" x2="10157.4" y2="4546.05" type="Wall" target=""/>
+            <linesegment x1="10157.4" y1="4546.05" x2="10215.5" y2="4515.79" type="Wall" target=""/>
+            <linesegment x1="10215.5" y1="4515.79" x2="10267.8" y2="4488.96" type="Portal" target="A0093001_126"/>
+            <linesegment x1="10267.8" y1="4488.96" x2="10277.9" y2="4484.26" type="Wall" target=""/>
+            <linesegment x1="10277.9" y1="4484.26" x2="10355.3" y2="4634.48" type="Wall" target=""/>
+            <linesegment x1="10355.3" y1="4634.48" x2="10233.6" y2="4696.37" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_126"/>
+    </space>
+    <space name="A0093001_128" type="">
+        <contour>
+            <centroid x="10418.5" y="4507.45"/>
+            <linesegment x1="10366.4" y1="4628.76" x2="10289.5" y2="4477.91" type="Wall" target=""/>
+            <linesegment x1="10289.5" y1="4477.91" x2="10300.7" y2="4472.32" type="Wall" target=""/>
+            <linesegment x1="10300.7" y1="4472.32" x2="10355" y2="4444.65" type="Portal" target="A0093001_126"/>
+            <linesegment x1="10355" y1="4444.65" x2="10470.5" y2="4386.05" type="Wall" target=""/>
+            <linesegment x1="10470.5" y1="4386.05" x2="10547.5" y2="4537.17" type="Wall" target=""/>
+            <linesegment x1="10547.5" y1="4537.17" x2="10366.4" y2="4628.76" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_126"/>
+    </space>
+    <space name="A0093001_126" type="">
+        <contour>
+            <centroid x="10207.5" y="4462.19"/>
+            <linesegment x1="10189.4" y1="4514.25" x2="10210.8" y2="4504.48" type="Wall" target=""/>
+            <linesegment x1="10210.8" y1="4504.48" x2="10263.5" y2="4478.77" type="Portal" target="A0093001_129"/>
+            <linesegment x1="10263.5" y1="4478.77" x2="10296" y2="4461.58" type="Wall" target=""/>
+            <linesegment x1="10296" y1="4461.58" x2="10349.5" y2="4435.57" type="Portal" target="A0093001_128"/>
+            <linesegment x1="10349.5" y1="4435.57" x2="10358.5" y2="4430.19" type="Wall" target=""/>
+            <linesegment x1="10358.5" y1="4430.19" x2="10354" y2="4422.03" type="Wall" target=""/>
+            <linesegment x1="10354" y1="4422.03" x2="10330" y2="4370.74" type="Portal" target="A0093001_127"/>
+            <linesegment x1="10330" y1="4370.74" x2="10322.8" y2="4360.05" type="Wall" target=""/>
+            <linesegment x1="10322.8" y1="4360.05" x2="10056.4" y2="4494.19" type="Wall" target=""/>
+            <linesegment x1="10056.4" y1="4494.19" x2="10090.2" y2="4565.54" type="Portal" target="A0093001_202"/>
+            <linesegment x1="10090.2" y1="4565.54" x2="10189.4" y2="4514.25" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_127"/>
+        <portal target="A0093001_129"/>
+        <portal target="A0093001_128"/>
+        <portal target="A0093001_202"/>
+    </space>
+    <space name="A0093001_130" type="">
+        <contour>
+            <centroid x="10140.9" y="4648.16"/>
+            <linesegment x1="10060.6" y1="4594.63" x2="10144.9" y2="4552.87" type="Wall" target=""/>
+            <linesegment x1="10144.9" y1="4552.87" x2="10220.8" y2="4701.21" type="Wall" target=""/>
+            <linesegment x1="10220.8" y1="4701.21" x2="10137.5" y2="4744.22" type="Wall" target=""/>
+            <linesegment x1="10137.5" y1="4744.22" x2="10111.1" y2="4692.06" type="Wall" target=""/>
+            <linesegment x1="10111.1" y1="4692.06" x2="10082.8" y2="4638.31" type="Portal" target="A0093001_119"/>
+            <linesegment x1="10082.8" y1="4638.31" x2="10060.6" y2="4594.63" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_202"/>
+    </space>
+    <space name="A0093001_131" type="TOALETT">
+        <contour>
+            <centroid x="10219.9" y="4772.08"/>
+            <linesegment x1="10143.4" y1="4756.06" x2="10234.7" y2="4710.71" type="Wall" target=""/>
+            <linesegment x1="10234.7" y1="4710.71" x2="10247.7" y2="4735.09" type="Wall" target=""/>
+            <linesegment x1="10247.7" y1="4735.09" x2="10271.9" y2="4722.09" type="Wall" target=""/>
+            <linesegment x1="10271.9" y1="4722.09" x2="10300.7" y2="4779.62" type="Wall" target=""/>
+            <linesegment x1="10300.7" y1="4779.62" x2="10186.3" y2="4839.59" type="Wall" target=""/>
+            <linesegment x1="10186.3" y1="4839.59" x2="10183.4" y2="4835.29" type="Wall" target=""/>
+            <linesegment x1="10183.4" y1="4835.29" x2="10159" y2="4787.91" type="Portal" target="A0093001_202"/>
+            <linesegment x1="10159" y1="4787.91" x2="10143.4" y2="4756.06" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_202"/>
+    </space>
+    <space name="A0093001_132" type="">
+        <contour>
+            <centroid x="10265.6" y="4855.52"/>
+            <linesegment x1="10227.8" y1="4920.95" x2="10191.1" y2="4850.28" type="Wall" target=""/>
+            <linesegment x1="10191.1" y1="4850.28" x2="10308.3" y2="4790.44" type="Wall" target=""/>
+            <linesegment x1="10308.3" y1="4790.44" x2="10311.1" y2="4794.89" type="Wall" target=""/>
+            <linesegment x1="10311.1" y1="4794.89" x2="10336.5" y2="4847.43" type="Portal" target="A0093001_134"/>
+            <linesegment x1="10336.5" y1="4847.43" x2="10337.9" y2="4850.4" type="Wall" target=""/>
+            <linesegment x1="10337.9" y1="4850.4" x2="10313.2" y2="4862.7" type="Wall" target=""/>
+            <linesegment x1="10313.2" y1="4862.7" x2="10318.6" y2="4874.7" type="Wall" target=""/>
+            <linesegment x1="10318.6" y1="4874.7" x2="10227.8" y2="4920.95" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_134"/>
+    </space>
+    <space name="A0093001_133" type="">
+        <contour>
+            <centroid x="10308.2" y="4939.27"/>
+            <linesegment x1="10267.9" y1="5002.2" x2="10232.4" y2="4933.04" type="Wall" target=""/>
+            <linesegment x1="10232.4" y1="4933.04" x2="10322.7" y2="4886.35" type="Wall" target=""/>
+            <linesegment x1="10322.7" y1="4886.35" x2="10328.6" y2="4896.73" type="Wall" target=""/>
+            <linesegment x1="10328.6" y1="4896.73" x2="10356.1" y2="4882.39" type="Wall" target=""/>
+            <linesegment x1="10356.1" y1="4882.39" x2="10383.3" y2="4938.41" type="Portal" target="A0093001_134"/>
+            <linesegment x1="10383.3" y1="4938.41" x2="10385.7" y2="4942.69" type="Wall" target=""/>
+            <linesegment x1="10385.7" y1="4942.69" x2="10267.9" y2="5002.2" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_134"/>
+    </space>
+    <space name="A0093001_135" type="">
+        <contour>
+            <centroid x="10358.3" y="5034.81"/>
+            <linesegment x1="10326.3" y1="5115.43" x2="10309.1" y2="5081.69" type="Wall" target=""/>
+            <linesegment x1="10309.1" y1="5081.69" x2="10280.6" y2="5028.36" type="Portal" target="A0093001_202"/>
+            <linesegment x1="10280.6" y1="5028.36" x2="10273.4" y2="5013.41" type="Wall" target=""/>
+            <linesegment x1="10273.4" y1="5013.41" x2="10390.5" y2="4953.97" type="Wall" target=""/>
+            <linesegment x1="10390.5" y1="4953.97" x2="10399.3" y2="4970.05" type="Wall" target=""/>
+            <linesegment x1="10399.3" y1="4970.05" x2="10425.9" y2="5024.34" type="Portal" target="A0093001_134"/>
+            <linesegment x1="10425.9" y1="5024.34" x2="10442.1" y2="5056.16" type="Wall" target=""/>
+            <linesegment x1="10442.1" y1="5056.16" x2="10418.8" y2="5070.01" type="Wall" target=""/>
+            <linesegment x1="10418.8" y1="5070.01" x2="10369.9" y2="5093.41" type="Portal" target="A0093001_136"/>
+            <linesegment x1="10369.9" y1="5093.41" x2="10326.3" y2="5115.43" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_134"/>
+        <portal target="A0093001_136"/>
+        <portal target="A0093001_202"/>
+    </space>
+    <space name="A0093001_134" type="">
+        <contour>
+            <centroid x="10521.6" y="4834.98"/>
+            <linesegment x1="10271.3" y1="4691.37" x2="10552.8" y2="4548.2" type="Wall" target=""/>
+            <linesegment x1="10552.8" y1="4548.2" x2="10772.7" y2="4978.68" type="Wall" target=""/>
+            <linesegment x1="10772.7" y1="4978.68" x2="10490.5" y2="5121.17" type="Wall" target=""/>
+            <linesegment x1="10490.5" y1="5121.17" x2="10436.4" y2="5015.81" type="Wall" target=""/>
+            <linesegment x1="10436.4" y1="5015.81" x2="10408.4" y2="4963.9" type="Portal" target="A0093001_135"/>
+            <linesegment x1="10408.4" y1="4963.9" x2="10393.5" y2="4932.67" type="Wall" target=""/>
+            <linesegment x1="10393.5" y1="4932.67" x2="10365.9" y2="4878.35" type="Portal" target="A0093001_133"/>
+            <linesegment x1="10365.9" y1="4878.35" x2="10346.4" y2="4841.11" type="Wall" target=""/>
+            <linesegment x1="10346.4" y1="4841.11" x2="10319.5" y2="4787.97" type="Portal" target="A0093001_132"/>
+            <linesegment x1="10319.5" y1="4787.97" x2="10271.3" y2="4691.37" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_132"/>
+        <portal target="A0093001_133"/>
+        <portal target="A0093001_135"/>
+    </space>
+    <space name="A0093001_136" type="TOALETT">
+        <contour>
+            <centroid x="10397.5" y="5129.44"/>
+            <linesegment x1="10362.5" y1="5187.08" x2="10331.9" y2="5126.94" type="Wall" target=""/>
+            <linesegment x1="10331.9" y1="5126.94" x2="10377.4" y2="5102.4" type="Wall" target=""/>
+            <linesegment x1="10377.4" y1="5102.4" x2="10425.4" y2="5078.46" type="Portal" target="A0093001_135"/>
+            <linesegment x1="10425.4" y1="5078.46" x2="10447.1" y2="5067.72" type="Wall" target=""/>
+            <linesegment x1="10447.1" y1="5067.72" x2="10453" y2="5078.45" type="Wall" target=""/>
+            <linesegment x1="10453" y1="5078.45" x2="10438.2" y2="5087.99" type="Wall" target=""/>
+            <linesegment x1="10438.2" y1="5087.99" x2="10456.5" y2="5124.25" type="Wall" target=""/>
+            <linesegment x1="10456.5" y1="5124.25" x2="10448.3" y2="5128.55" type="Wall" target=""/>
+            <linesegment x1="10448.3" y1="5128.55" x2="10453.8" y2="5140.15" type="Wall" target=""/>
+            <linesegment x1="10453.8" y1="5140.15" x2="10362.5" y2="5187.08" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_135"/>
+    </space>
+    <space name="A0093001_137" type="TOALETT">
+        <contour>
+            <centroid x="10435.7" y="5204.08"/>
+            <linesegment x1="10399.1" y1="5257.85" x2="10368.9" y2="5198.49" type="Wall" target=""/>
+            <linesegment x1="10368.9" y1="5198.49" x2="10459.5" y2="5153.13" type="Wall" target=""/>
+            <linesegment x1="10459.5" y1="5153.13" x2="10464.5" y2="5162.59" type="Wall" target=""/>
+            <linesegment x1="10464.5" y1="5162.59" x2="10473.2" y2="5157.79" type="Wall" target=""/>
+            <linesegment x1="10473.2" y1="5157.79" x2="10492.6" y2="5196.39" type="Wall" target=""/>
+            <linesegment x1="10492.6" y1="5196.39" x2="10508.7" y2="5188.36" type="Wall" target=""/>
+            <linesegment x1="10508.7" y1="5188.36" x2="10514.8" y2="5198.82" type="Wall" target=""/>
+            <linesegment x1="10514.8" y1="5198.82" x2="10490.5" y2="5213.03" type="Wall" target=""/>
+            <linesegment x1="10490.5" y1="5213.03" x2="10443.4" y2="5237.09" type="Portal" target="A0093001_138"/>
+            <linesegment x1="10443.4" y1="5237.09" x2="10399.1" y2="5257.85" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_138"/>
+    </space>
+    <space name="A0093001_138" type="">
+        <contour>
+            <centroid x="10487.1" y="5289.48"/>
+            <linesegment x1="10455.4" y1="5368.79" x2="10448.6" y2="5356.11" type="Wall" target=""/>
+            <linesegment x1="10448.6" y1="5356.11" x2="10420.9" y2="5299.86" type="Portal" target="A0093001_202"/>
+            <linesegment x1="10420.9" y1="5299.86" x2="10406" y2="5269.55" type="Wall" target=""/>
+            <linesegment x1="10406" y1="5269.55" x2="10450.8" y2="5246.12" type="Wall" target=""/>
+            <linesegment x1="10450.8" y1="5246.12" x2="10497.5" y2="5222.38" type="Portal" target="A0093001_137"/>
+            <linesegment x1="10497.5" y1="5222.38" x2="10519.9" y2="5210.93" type="Wall" target=""/>
+            <linesegment x1="10519.9" y1="5210.93" x2="10538.3" y2="5244.61" type="Wall" target=""/>
+            <linesegment x1="10538.3" y1="5244.61" x2="10566.9" y2="5298.74" type="Portal" target="A0093001_139"/>
+            <linesegment x1="10566.9" y1="5298.74" x2="10541.9" y2="5311.99" type="Wall" target=""/>
+            <linesegment x1="10541.9" y1="5311.99" x2="10547.5" y2="5323.27" type="Wall" target=""/>
+            <linesegment x1="10547.5" y1="5323.27" x2="10455.4" y2="5368.79" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_137"/>
+        <portal target="A0093001_139"/>
+        <portal target="A0093001_202"/>
+    </space>
+    <space name="A0093001_140" type="">
+        <contour>
+            <centroid x="10536.7" y="5387.53"/>
+            <linesegment x1="10496.1" y1="5450.21" x2="10461.4" y2="5380.96" type="Wall" target=""/>
+            <linesegment x1="10461.4" y1="5380.96" x2="10551.8" y2="5334.99" type="Wall" target=""/>
+            <linesegment x1="10551.8" y1="5334.99" x2="10557.8" y2="5345.86" type="Wall" target=""/>
+            <linesegment x1="10557.8" y1="5345.86" x2="10585.7" y2="5331.53" type="Wall" target=""/>
+            <linesegment x1="10585.7" y1="5331.53" x2="10613.7" y2="5390.59" type="Portal" target="A0093001_139"/>
+            <linesegment x1="10613.7" y1="5390.59" x2="10496.1" y2="5450.21" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_139"/>
+    </space>
+    <space name="A0093001_141" type="">
+        <contour>
+            <centroid x="10576.7" y="5466.56"/>
+            <linesegment x1="10538" y1="5531.48" x2="10503.2" y2="5461.43" type="Wall" target=""/>
+            <linesegment x1="10503.2" y1="5461.43" x2="10619.5" y2="5401.97" type="Wall" target=""/>
+            <linesegment x1="10619.5" y1="5401.97" x2="10621.5" y2="5405.93" type="Wall" target=""/>
+            <linesegment x1="10621.5" y1="5405.93" x2="10648.7" y2="5459.34" type="Portal" target="A0093001_139"/>
+            <linesegment x1="10648.7" y1="5459.34" x2="10624.4" y2="5472.45" type="Wall" target=""/>
+            <linesegment x1="10624.4" y1="5472.45" x2="10630.3" y2="5484.79" type="Wall" target=""/>
+            <linesegment x1="10630.3" y1="5484.79" x2="10538" y2="5531.48" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_139"/>
+    </space>
+    <space name="A0093001_139" type="">
+        <contour>
+            <centroid x="10755.4" y="5293.56"/>
+            <linesegment x1="10732" y1="5597.31" x2="10658.6" y2="5453.14" type="Wall" target=""/>
+            <linesegment x1="10658.6" y1="5453.14" x2="10631.2" y2="5399.89" type="Portal" target="A0093001_141"/>
+            <linesegment x1="10631.2" y1="5399.89" x2="10622.5" y2="5381.96" type="Wall" target=""/>
+            <linesegment x1="10622.5" y1="5381.96" x2="10595.8" y2="5328.56" type="Portal" target="A0093001_140"/>
+            <linesegment x1="10595.8" y1="5328.56" x2="10576.9" y2="5291.23" type="Wall" target=""/>
+            <linesegment x1="10576.9" y1="5291.23" x2="10549.3" y2="5237.82" type="Portal" target="A0093001_138"/>
+            <linesegment x1="10549.3" y1="5237.82" x2="10496.4" y2="5133.78" type="Wall" target=""/>
+            <linesegment x1="10496.4" y1="5133.78" x2="10778.4" y2="4989.37" type="Wall" target=""/>
+            <linesegment x1="10778.4" y1="4989.37" x2="10948.3" y2="5323.25" type="Wall" target=""/>
+            <linesegment x1="10948.3" y1="5323.25" x2="10975.1" y2="5377.72" type="Window" target=""/>
+            <linesegment x1="10975.1" y1="5377.72" x2="11014.3" y2="5454.13" type="Wall" target=""/>
+            <linesegment x1="11014.3" y1="5454.13" x2="10732" y2="5597.31" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_138"/>
+        <portal target="A0093001_140"/>
+        <portal target="A0093001_141"/>
+    </space>
+    <space name="A0093001_142" type="TOALETT">
+        <contour>
+            <centroid x="10631.5" y="5574.39"/>
+            <linesegment x1="10604.9" y1="5662.17" x2="10721.2" y2="5603.66" type="Wall" target=""/>
+            <linesegment x1="10721.2" y1="5603.66" x2="10666.7" y2="5494.51" type="Wall" target=""/>
+            <linesegment x1="10666.7" y1="5494.51" x2="10641.6" y2="5507.02" type="Wall" target=""/>
+            <linesegment x1="10641.6" y1="5507.02" x2="10634.8" y2="5495.93" type="Wall" target=""/>
+            <linesegment x1="10634.8" y1="5495.93" x2="10541.7" y2="5542.87" type="Wall" target=""/>
+            <linesegment x1="10541.7" y1="5542.87" x2="10576.8" y2="5610.95" type="Portal" target="A0093001_202"/>
+            <linesegment x1="10576.8" y1="5610.95" x2="10604.9" y2="5662.17" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_202"/>
+    </space>
+    <space name="A0093001_119" type="">
+        <contour>
+            <centroid x="10533.4" y="5672.89"/>
+            <linesegment x1="10496.2" y1="5719.13" x2="10474" y2="5675.9" type="Wall" target=""/>
+            <linesegment x1="10474" y1="5675.9" x2="10511.6" y2="5656.72" type="Window" target=""/>
+            <linesegment x1="10511.6" y1="5656.72" x2="10566.6" y2="5629.15" type="Portal" target="A0093001_202"/>
+            <linesegment x1="10566.6" y1="5629.15" x2="10571.1" y2="5627" type="Wall" target=""/>
+            <linesegment x1="10571.1" y1="5627" x2="10593" y2="5669.56" type="Wall" target=""/>
+            <linesegment x1="10593" y1="5669.56" x2="10496.2" y2="5719.13" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_202"/>
+    </space>
+    <space name="A0093001_202" type="KORRIDOR">
+        <contour>
+            <centroid x="10200.3" y="5009.06"/>
+            <linesegment x1="10459.6" y1="5648.66" x2="10423.3" y2="5575.81" type="Wall" target=""/>
+            <linesegment x1="10423.3" y1="5575.81" x2="10383.5" y2="5499.91" type="Portal" target="A0093001_118"/>
+            <linesegment x1="10383.5" y1="5499.91" x2="9854.24" y2="4460.65" type="Wall" target=""/>
+            <linesegment x1="9854.24" y1="4460.65" x2="9874.42" y2="4450.7" type="Wall" target=""/>
+            <linesegment x1="9874.42" y1="4450.7" x2="9927.18" y2="4424.61" type="Portal" target="A0093001_123"/>
+            <linesegment x1="9927.18" y1="4424.61" x2="9990.22" y2="4392.97" type="Wall" target=""/>
+            <linesegment x1="9990.22" y1="4392.97" x2="9997.88" y2="4406.31" type="Wall" target=""/>
+            <linesegment x1="9997.88" y1="4406.31" x2="10029.5" y2="4469.74" type="Portal" target="A0093001_125"/>
+            <linesegment x1="10029.5" y1="4469.74" x2="10046.5" y2="4501.09" type="Wall" target=""/>
+            <linesegment x1="10046.5" y1="4501.09" x2="10080.8" y2="4570.5" type="Portal" target="A0093001_126"/>
+            <linesegment x1="10080.8" y1="4570.5" x2="10045.5" y2="4589.65" type="Wall" target=""/>
+            <linesegment x1="10045.5" y1="4589.65" x2="10072.8" y2="4644.46" type="Wall" target=""/>
+            <linesegment x1="10072.8" y1="4644.46" x2="10099.5" y2="4698.2" type="Portal" target="A0093001_130"/>
+            <linesegment x1="10099.5" y1="4698.2" x2="10149.3" y2="4795.98" type="Wall" target=""/>
+            <linesegment x1="10149.3" y1="4795.98" x2="10173" y2="4841.21" type="Portal" target="A0093001_131"/>
+            <linesegment x1="10173" y1="4841.21" x2="10270.9" y2="5035.59" type="Wall" target=""/>
+            <linesegment x1="10270.9" y1="5035.59" x2="10299.5" y2="5089.95" type="Portal" target="A0093001_135"/>
+            <linesegment x1="10299.5" y1="5089.95" x2="10410.7" y2="5309.03" type="Wall" target=""/>
+            <linesegment x1="10410.7" y1="5309.03" x2="10438.3" y2="5361.59" type="Portal" target="A0093001_138"/>
+            <linesegment x1="10438.3" y1="5361.59" x2="10532.2" y2="5547.47" type="Wall" target=""/>
+            <linesegment x1="10532.2" y1="5547.47" x2="10565" y2="5617.11" type="Portal" target="A0093001_142"/>
+            <linesegment x1="10565" y1="5617.11" x2="10505.7" y2="5646.47" type="Portal" target="A0093001_119"/>
+            <linesegment x1="10505.7" y1="5646.47" x2="10468.3" y2="5665.34" type="Window" target=""/>
+            <linesegment x1="10468.3" y1="5665.34" x2="10459.6" y2="5648.66" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_118"/>
+        <portal target="A0093001_123"/>
+        <portal target="A0093001_125"/>
+        <portal target="A0093001_126"/>
+        <portal target="A0093001_130"/>
+        <portal target="A0093001_131"/>
+        <portal target="A0093001_135"/>
+        <portal target="A0093001_138"/>
+        <portal target="A0093001_142"/>
+        <portal target="A0093001_119"/>
+    </space>
+    <space name="A0093001_3173B" type="UC">
+        <contour>
+            <centroid x="1610.48" y="1109.07"/>
+            <linesegment x1="1327.63" y1="1205.77" x2="1384.41" y2="911.457" type="Wall" target=""/>
+            <linesegment x1="1384.41" y1="911.457" x2="1397.74" y2="914.545" type="Wall" target=""/>
+            <linesegment x1="1397.74" y1="914.545" x2="1397.25" y2="930.96" type="Wall" target=""/>
+            <linesegment x1="1397.25" y1="930.96" x2="1433.5" y2="938.111" type="Wall" target=""/>
+            <linesegment x1="1433.5" y1="938.111" x2="1436.58" y2="921.696" type="Wall" target=""/>
+            <linesegment x1="1436.58" y1="921.696" x2="1727.35" y2="977.931" type="Wall" target=""/>
+            <linesegment x1="1727.35" y1="977.931" x2="1842.27" y2="998.873" type="Window" target=""/>
+            <linesegment x1="1842.27" y1="998.873" x2="1862.04" y2="1004.06" type="Wall" target=""/>
+            <linesegment x1="1862.04" y1="1004.06" x2="1860.56" y2="1020.38" type="Wall" target=""/>
+            <linesegment x1="1860.56" y1="1020.38" x2="1889.97" y2="1027.3" type="Wall" target=""/>
+            <linesegment x1="1889.97" y1="1027.3" x2="1837.22" y2="1302.99" type="Wall" target=""/>
+            <linesegment x1="1837.22" y1="1302.99" x2="1807.31" y2="1297.46" type="Wall" target=""/>
+            <linesegment x1="1807.31" y1="1297.46" x2="1781.79" y2="1293.07" type="Window" target=""/>
+            <linesegment x1="1781.79" y1="1293.07" x2="1719.55" y2="1282.56" type="Portal" target="A0093001_3173A"/>
+            <linesegment x1="1719.55" y1="1282.56" x2="1327.63" y2="1205.77" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_3173A"/>
+    </space>
+    <space name="A0093001_3173A" type="EL">
+        <contour>
+            <centroid x="1273.36" y="1271.86"/>
+            <linesegment x1="839.738" y1="1425.82" x2="954.816" y2="845.004" type="Wall" target=""/>
+            <linesegment x1="954.816" y1="845.004" x2="968.949" y2="848.679" type="Wall" target=""/>
+            <linesegment x1="968.949" y1="848.679" x2="972.482" y2="831.013" type="Wall" target=""/>
+            <linesegment x1="972.482" y1="831.013" x2="1372.61" y2="909.419" type="Wall" target=""/>
+            <linesegment x1="1372.61" y1="909.419" x2="1312.27" y2="1214.93" type="Wall" target=""/>
+            <linesegment x1="1312.27" y1="1214.93" x2="1342.62" y2="1221.45" type="Wall" target=""/>
+            <linesegment x1="1342.62" y1="1221.45" x2="1339.02" y2="1236.1" type="Wall" target=""/>
+            <linesegment x1="1339.02" y1="1236.1" x2="1370.22" y2="1244.55" type="Wall" target=""/>
+            <linesegment x1="1370.22" y1="1244.55" x2="1372.89" y2="1227.56" type="Wall" target=""/>
+            <linesegment x1="1372.89" y1="1227.56" x2="1719.99" y2="1294.45" type="Wall" target=""/>
+            <linesegment x1="1719.99" y1="1294.45" x2="1778.88" y2="1305.79" type="Portal" target="A0093001_3173B"/>
+            <linesegment x1="1778.88" y1="1305.79" x2="1803.23" y2="1311.18" type="Window" target=""/>
+            <linesegment x1="1803.23" y1="1311.18" x2="1800.35" y2="1328" type="Wall" target=""/>
+            <linesegment x1="1800.35" y1="1328" x2="1831.2" y2="1334.35" type="Wall" target=""/>
+            <linesegment x1="1831.2" y1="1334.35" x2="1827.3" y2="1354.83" type="Wall" target=""/>
+            <linesegment x1="1827.3" y1="1354.83" x2="1803.78" y2="1479.47" type="Portal" target="A0093001_3164A"/>
+            <linesegment x1="1803.78" y1="1479.47" x2="1780.88" y2="1591.78" type="Wall" target=""/>
+            <linesegment x1="1780.88" y1="1591.78" x2="1375.45" y2="1593.01" type="Wall" target=""/>
+            <linesegment x1="1375.45" y1="1593.01" x2="1375.85" y2="1548.02" type="Wall" target=""/>
+            <linesegment x1="1375.85" y1="1548.02" x2="1316.96" y2="1536.84" type="Wall" target=""/>
+            <linesegment x1="1316.96" y1="1536.84" x2="1320.5" y2="1520.68" type="Wall" target=""/>
+            <linesegment x1="1320.5" y1="1520.68" x2="1283.49" y2="1512.64" type="Wall" target=""/>
+            <linesegment x1="1283.49" y1="1512.64" x2="1279.94" y2="1528.71" type="Wall" target=""/>
+            <linesegment x1="1279.94" y1="1528.71" x2="854.247" y2="1446.34" type="Wall" target=""/>
+            <linesegment x1="854.247" y1="1446.34" x2="856.197" y2="1428.62" type="Wall" target=""/>
+            <linesegment x1="856.197" y1="1428.62" x2="839.738" y2="1425.82" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_3173B"/>
+        <portal target="A0093001_3164A"/>
+    </space>
+    <space name="A0093001_3164A" type="">
+        <contour>
+            <centroid x="5124.2" y="1919.14"/>
+            <linesegment x1="1911.73" y1="1032" x2="1927.05" y2="1034.72" type="Wall" target=""/>
+            <linesegment x1="1927.05" y1="1034.72" x2="1931.75" y2="1017.91" type="Wall" target=""/>
+            <linesegment x1="1931.75" y1="1017.91" x2="2357.71" y2="1100.51" type="Wall" target=""/>
+            <linesegment x1="2357.71" y1="1100.51" x2="2354.27" y2="1116.63" type="Wall" target=""/>
+            <linesegment x1="2354.27" y1="1116.63" x2="2391.24" y2="1125.01" type="Wall" target=""/>
+            <linesegment x1="2391.24" y1="1125.01" x2="2395.54" y2="1108.25" type="Wall" target=""/>
+            <linesegment x1="2395.54" y1="1108.25" x2="2578.43" y2="1142.38" type="Wall" target=""/>
+            <linesegment x1="2578.43" y1="1142.38" x2="2636.53" y2="1153.46" type="Window" target=""/>
+            <linesegment x1="2636.53" y1="1153.46" x2="2735.2" y2="1173.03" type="Wall" target=""/>
+            <linesegment x1="2735.2" y1="1173.03" x2="2790.99" y2="1184.28" type="Window" target=""/>
+            <linesegment x1="2790.99" y1="1184.28" x2="2820.18" y2="1190.6" type="Wall" target=""/>
+            <linesegment x1="2820.18" y1="1190.6" x2="2818.23" y2="1207.58" type="Wall" target=""/>
+            <linesegment x1="2818.23" y1="1207.58" x2="2856.43" y2="1215.71" type="Wall" target=""/>
+            <linesegment x1="2856.43" y1="1215.71" x2="2858.05" y2="1198.48" type="Wall" target=""/>
+            <linesegment x1="2858.05" y1="1198.48" x2="2888.14" y2="1203.63" type="Wall" target=""/>
+            <linesegment x1="2888.14" y1="1203.63" x2="2945.58" y2="1213.78" type="Window" target=""/>
+            <linesegment x1="2945.58" y1="1213.78" x2="3043.17" y2="1232.7" type="Wall" target=""/>
+            <linesegment x1="3043.17" y1="1232.7" x2="3099.91" y2="1243.88" type="Window" target=""/>
+            <linesegment x1="3099.91" y1="1243.88" x2="3197.9" y2="1262.68" type="Wall" target=""/>
+            <linesegment x1="3197.9" y1="1262.68" x2="3254.43" y2="1274.15" type="Window" target=""/>
+            <linesegment x1="3254.43" y1="1274.15" x2="3284.52" y2="1279.38" type="Wall" target=""/>
+            <linesegment x1="3284.52" y1="1279.38" x2="3282.61" y2="1297.34" type="Wall" target=""/>
+            <linesegment x1="3282.61" y1="1297.34" x2="3319.53" y2="1305.88" type="Wall" target=""/>
+            <linesegment x1="3319.53" y1="1305.88" x2="3321.93" y2="1287.08" type="Wall" target=""/>
+            <linesegment x1="3321.93" y1="1287.08" x2="3351.61" y2="1292.88" type="Wall" target=""/>
+            <linesegment x1="3351.61" y1="1292.88" x2="3408.43" y2="1302.91" type="Window" target=""/>
+            <linesegment x1="3408.43" y1="1302.91" x2="3506.56" y2="1322.69" type="Wall" target=""/>
+            <linesegment x1="3506.56" y1="1322.69" x2="3563.76" y2="1333.4" type="Window" target=""/>
+            <linesegment x1="3563.76" y1="1333.4" x2="3662.24" y2="1352.23" type="Wall" target=""/>
+            <linesegment x1="3662.24" y1="1352.23" x2="3719.08" y2="1363.86" type="Window" target=""/>
+            <linesegment x1="3719.08" y1="1363.86" x2="3747.86" y2="1370.22" type="Wall" target=""/>
+            <linesegment x1="3747.86" y1="1370.22" x2="3745.62" y2="1387.6" type="Wall" target=""/>
+            <linesegment x1="3745.62" y1="1387.6" x2="3781.88" y2="1395.64" type="Wall" target=""/>
+            <linesegment x1="3781.88" y1="1395.64" x2="3785.8" y2="1377.69" type="Wall" target=""/>
+            <linesegment x1="3785.8" y1="1377.69" x2="3816.08" y2="1383.3" type="Wall" target=""/>
+            <linesegment x1="3816.08" y1="1383.3" x2="3873.37" y2="1393.68" type="Window" target=""/>
+            <linesegment x1="3873.37" y1="1393.68" x2="3971.52" y2="1413.9" type="Wall" target=""/>
+            <linesegment x1="3971.52" y1="1413.9" x2="4028.37" y2="1425.51" type="Window" target=""/>
+            <linesegment x1="4028.37" y1="1425.51" x2="4125.5" y2="1443.48" type="Wall" target=""/>
+            <linesegment x1="4125.5" y1="1443.48" x2="4183.21" y2="1454.29" type="Window" target=""/>
+            <linesegment x1="4183.21" y1="1454.29" x2="4212.77" y2="1461.39" type="Wall" target=""/>
+            <linesegment x1="4212.77" y1="1461.39" x2="4210.09" y2="1477.3" type="Wall" target=""/>
+            <linesegment x1="4210.09" y1="1477.3" x2="4246.63" y2="1484.83" type="Wall" target=""/>
+            <linesegment x1="4246.63" y1="1484.83" x2="4250.29" y2="1468.92" type="Wall" target=""/>
+            <linesegment x1="4250.29" y1="1468.92" x2="4273.33" y2="1472.73" type="Wall" target=""/>
+            <linesegment x1="4273.33" y1="1472.73" x2="4313.62" y2="1265.34" type="Wall" target=""/>
+            <linesegment x1="4313.62" y1="1265.34" x2="4344.02" y2="1271.02" type="Wall" target=""/>
+            <linesegment x1="4344.02" y1="1271.02" x2="4353.89" y2="1225.18" type="Wall" target=""/>
+            <linesegment x1="4353.89" y1="1225.18" x2="4725.01" y2="1297.94" type="Wall" target=""/>
+            <linesegment x1="4725.01" y1="1297.94" x2="4717.14" y2="1344.04" type="Wall" target=""/>
+            <linesegment x1="4717.14" y1="1344.04" x2="4754.97" y2="1351.78" type="Wall" target=""/>
+            <linesegment x1="4754.97" y1="1351.78" x2="4762.95" y2="1305.17" type="Wall" target=""/>
+            <linesegment x1="4762.95" y1="1305.17" x2="5188.51" y2="1388.1" type="Wall" target=""/>
+            <linesegment x1="5188.51" y1="1388.1" x2="5181.07" y2="1433.5" type="Wall" target=""/>
+            <linesegment x1="5181.07" y1="1433.5" x2="5217.96" y2="1440.65" type="Wall" target=""/>
+            <linesegment x1="5217.96" y1="1440.65" x2="5226.3" y2="1394.14" type="Wall" target=""/>
+            <linesegment x1="5226.3" y1="1394.14" x2="5651.88" y2="1478.16" type="Wall" target=""/>
+            <linesegment x1="5651.88" y1="1478.16" x2="5644.1" y2="1522.82" type="Wall" target=""/>
+            <linesegment x1="5644.1" y1="1522.82" x2="5680.42" y2="1531.3" type="Wall" target=""/>
+            <linesegment x1="5680.42" y1="1531.3" x2="5690.75" y2="1485.34" type="Wall" target=""/>
+            <linesegment x1="5690.75" y1="1485.34" x2="5773" y2="1501.89" type="Wall" target=""/>
+            <linesegment x1="5773" y1="1501.89" x2="5855.7" y2="1517.07" type="Window" target=""/>
+            <linesegment x1="5855.7" y1="1517.07" x2="6116.56" y2="1567.62" type="Wall" target=""/>
+            <linesegment x1="6116.56" y1="1567.62" x2="6107.86" y2="1613.11" type="Wall" target=""/>
+            <linesegment x1="6107.86" y1="1613.11" x2="6131.57" y2="1621.47" type="Wall" target=""/>
+            <linesegment x1="6131.57" y1="1621.47" x2="6064.68" y2="1957.23" type="Wall" target=""/>
+            <linesegment x1="6064.68" y1="1957.23" x2="6328.82" y2="2009.94" type="Wall" target=""/>
+            <linesegment x1="6328.82" y1="2009.94" x2="6388.55" y2="2021.86" type="Portal" target="A0093001_3164B"/>
+            <linesegment x1="6388.55" y1="2021.86" x2="7210.49" y2="2180.38" type="Wall" target=""/>
+            <linesegment x1="7210.49" y1="2180.38" x2="7331.11" y2="2204.67" type="Portal" target="A0093001_3164B"/>
+            <linesegment x1="7331.11" y1="2204.67" x2="7437.04" y2="2225.31" type="Wall" target=""/>
+            <linesegment x1="7437.04" y1="2225.31" x2="7436.82" y2="2229.18" type="Wall" target=""/>
+            <linesegment x1="7436.82" y1="2229.18" x2="7466.05" y2="2235.41" type="Wall" target=""/>
+            <linesegment x1="7466.05" y1="2235.41" x2="7471" y2="2206.18" type="Wall" target=""/>
+            <linesegment x1="7471" y1="2206.18" x2="7451.44" y2="2202.09" type="Wall" target=""/>
+            <linesegment x1="7451.44" y1="2202.09" x2="7508.79" y2="1903.36" type="Wall" target=""/>
+            <linesegment x1="7508.79" y1="1903.36" x2="7537.72" y2="1908.08" type="Wall" target=""/>
+            <linesegment x1="7537.72" y1="1908.08" x2="7550.1" y2="1846.15" type="Wall" target=""/>
+            <linesegment x1="7550.1" y1="1846.15" x2="7968.38" y2="1928.47" type="Wall" target=""/>
+            <linesegment x1="7968.38" y1="1928.47" x2="7956.26" y2="1989.81" type="Wall" target=""/>
+            <linesegment x1="7956.26" y1="1989.81" x2="8088.97" y2="2012.86" type="Wall" target=""/>
+            <linesegment x1="8088.97" y1="2012.86" x2="8099.49" y2="1954.3" type="Wall" target=""/>
+            <linesegment x1="8099.49" y1="1954.3" x2="8432.44" y2="2019.18" type="Wall" target=""/>
+            <linesegment x1="8432.44" y1="2019.18" x2="8420.36" y2="2079.79" type="Wall" target=""/>
+            <linesegment x1="8420.36" y1="2079.79" x2="8428.98" y2="2082.05" type="Wall" target=""/>
+            <linesegment x1="8428.98" y1="2082.05" x2="8404.53" y2="2217.49" type="Wall" target=""/>
+            <linesegment x1="8404.53" y1="2217.49" x2="8415.16" y2="2219.72" type="Wall" target=""/>
+            <linesegment x1="8415.16" y1="2219.72" x2="8384.26" y2="2379.4" type="Wall" target=""/>
+            <linesegment x1="8384.26" y1="2379.4" x2="8370.42" y2="2376.68" type="Wall" target=""/>
+            <linesegment x1="8370.42" y1="2376.68" x2="8369.43" y2="2382.61" type="Wall" target=""/>
+            <linesegment x1="8369.43" y1="2382.61" x2="8067.24" y2="2324.15" type="Wall" target=""/>
+            <linesegment x1="8067.24" y1="2324.15" x2="8020.19" y2="2563.99" type="Wall" target=""/>
+            <linesegment x1="8020.19" y1="2563.99" x2="8353.61" y2="2629.7" type="Wall" target=""/>
+            <linesegment x1="8353.61" y1="2629.7" x2="8345.16" y2="2675.86" type="Wall" target=""/>
+            <linesegment x1="8345.16" y1="2675.86" x2="8315.5" y2="2671.65" type="Wall" target=""/>
+            <linesegment x1="8315.5" y1="2671.65" x2="8310.7" y2="2692.76" type="Wall" target=""/>
+            <linesegment x1="8310.7" y1="2692.76" x2="8340.93" y2="2701.05" type="Wall" target=""/>
+            <linesegment x1="8340.93" y1="2701.05" x2="8339.24" y2="2711.25" type="Wall" target=""/>
+            <linesegment x1="8339.24" y1="2711.25" x2="8309.98" y2="2861.91" type="Portal" target="A0093001_3164D"/>
+            <linesegment x1="8309.98" y1="2861.91" x2="8308.43" y2="2869.68" type="Wall" target=""/>
+            <linesegment x1="8308.43" y1="2869.68" x2="8268.58" y2="2861.66" type="Wall" target=""/>
+            <linesegment x1="8268.58" y1="2861.66" x2="8265.86" y2="2873.28" type="Wall" target=""/>
+            <linesegment x1="8265.86" y1="2873.28" x2="8227.54" y2="2865.86" type="Wall" target=""/>
+            <linesegment x1="8227.54" y1="2865.86" x2="8217.9" y2="2908.13" type="Wall" target=""/>
+            <linesegment x1="8217.9" y1="2908.13" x2="7836" y2="2834.9" type="Wall" target=""/>
+            <linesegment x1="7836" y1="2834.9" x2="7848.44" y2="2781.58" type="Wall" target=""/>
+            <linesegment x1="7848.44" y1="2781.58" x2="7804.71" y2="2772.13" type="Wall" target=""/>
+            <linesegment x1="7804.71" y1="2772.13" x2="7793.99" y2="2825.74" type="Wall" target=""/>
+            <linesegment x1="7793.99" y1="2825.74" x2="7705.13" y2="2809.78" type="Wall" target=""/>
+            <linesegment x1="7705.13" y1="2809.78" x2="7624.35" y2="2793.86" type="Window" target=""/>
+            <linesegment x1="7624.35" y1="2793.86" x2="7542.35" y2="2777.86" type="Wall" target=""/>
+            <linesegment x1="7542.35" y1="2777.86" x2="7463.88" y2="2763.03" type="Window" target=""/>
+            <linesegment x1="7463.88" y1="2763.03" x2="7374.51" y2="2744.24" type="Wall" target=""/>
+            <linesegment x1="7374.51" y1="2744.24" x2="7385.38" y2="2690.11" type="Wall" target=""/>
+            <linesegment x1="7385.38" y1="2690.11" x2="7339.1" y2="2681.74" type="Wall" target=""/>
+            <linesegment x1="7339.1" y1="2681.74" x2="7330.85" y2="2735.58" type="Wall" target=""/>
+            <linesegment x1="7330.85" y1="2735.58" x2="7242.51" y2="2719.03" type="Wall" target=""/>
+            <linesegment x1="7242.51" y1="2719.03" x2="7161.26" y2="2704.2" type="Window" target=""/>
+            <linesegment x1="7161.26" y1="2704.2" x2="7078.13" y2="2687.13" type="Wall" target=""/>
+            <linesegment x1="7078.13" y1="2687.13" x2="6998.54" y2="2672.92" type="Window" target=""/>
+            <linesegment x1="6998.54" y1="2672.92" x2="6906.45" y2="2652.81" type="Wall" target=""/>
+            <linesegment x1="6906.45" y1="2652.81" x2="6916.59" y2="2607.04" type="Wall" target=""/>
+            <linesegment x1="6916.59" y1="2607.04" x2="6878.67" y2="2600.5" type="Wall" target=""/>
+            <linesegment x1="6878.67" y1="2600.5" x2="6870.49" y2="2644.96" type="Wall" target=""/>
+            <linesegment x1="6870.49" y1="2644.96" x2="6778.37" y2="2629.22" type="Wall" target=""/>
+            <linesegment x1="6778.37" y1="2629.22" x2="6698.06" y2="2613.71" type="Window" target=""/>
+            <linesegment x1="6698.06" y1="2613.71" x2="6617.38" y2="2597.66" type="Wall" target=""/>
+            <linesegment x1="6617.38" y1="2597.66" x2="6536.05" y2="2583.09" type="Window" target=""/>
+            <linesegment x1="6536.05" y1="2583.09" x2="6443.86" y2="2563.06" type="Wall" target=""/>
+            <linesegment x1="6443.86" y1="2563.06" x2="6452.26" y2="2516.83" type="Wall" target=""/>
+            <linesegment x1="6452.26" y1="2516.83" x2="6414.94" y2="2509.67" type="Wall" target=""/>
+            <linesegment x1="6414.94" y1="2509.67" x2="6405.54" y2="2554.65" type="Wall" target=""/>
+            <linesegment x1="6405.54" y1="2554.65" x2="6313.89" y2="2538.85" type="Wall" target=""/>
+            <linesegment x1="6313.89" y1="2538.85" x2="6234.85" y2="2523.81" type="Window" target=""/>
+            <linesegment x1="6234.85" y1="2523.81" x2="6150.71" y2="2506.83" type="Wall" target=""/>
+            <linesegment x1="6150.71" y1="2506.83" x2="6070.24" y2="2491.32" type="Portal" target="A0093001_3164L"/>
+            <linesegment x1="6070.24" y1="2491.32" x2="5967.9" y2="2469.91" type="Wall" target=""/>
+            <linesegment x1="5967.9" y1="2469.91" x2="5976.93" y2="2424.13" type="Wall" target=""/>
+            <linesegment x1="5976.93" y1="2424.13" x2="5939.53" y2="2417.68" type="Wall" target=""/>
+            <linesegment x1="5939.53" y1="2417.68" x2="5935.01" y2="2435.74" type="Wall" target=""/>
+            <linesegment x1="5935.01" y1="2435.74" x2="5853.09" y2="2420.43" type="Wall" target=""/>
+            <linesegment x1="5853.09" y1="2420.43" x2="5760.69" y2="2403.5" type="Portal" target="A0093001_3162A"/>
+            <linesegment x1="5760.69" y1="2403.5" x2="5522.93" y2="2355.4" type="Wall" target=""/>
+            <linesegment x1="5522.93" y1="2355.4" x2="5524.36" y2="2337.77" type="Wall" target=""/>
+            <linesegment x1="5524.36" y1="2337.77" x2="5487.01" y2="2330.21" type="Wall" target=""/>
+            <linesegment x1="5487.01" y1="2330.21" x2="5485.03" y2="2347.51" type="Wall" target=""/>
+            <linesegment x1="5485.03" y1="2347.51" x2="5267.91" y2="2307.33" type="Wall" target=""/>
+            <linesegment x1="5267.91" y1="2307.33" x2="5152.81" y2="2285.47" type="Portal" target="A0093001_3163"/>
+            <linesegment x1="5152.81" y1="2285.47" x2="5057.52" y2="2265.13" type="Wall" target=""/>
+            <linesegment x1="5057.52" y1="2265.13" x2="5061.07" y2="2247.56" type="Wall" target=""/>
+            <linesegment x1="5061.07" y1="2247.56" x2="5024.3" y2="2239.49" type="Wall" target=""/>
+            <linesegment x1="5024.3" y1="2239.49" x2="5020.64" y2="2258.41" type="Wall" target=""/>
+            <linesegment x1="5020.64" y1="2258.41" x2="4981.13" y2="2251.07" type="Wall" target=""/>
+            <linesegment x1="4981.13" y1="2251.07" x2="4981.13" y2="2327.54" type="Wall" target=""/>
+            <linesegment x1="4981.13" y1="2327.54" x2="2981.79" y2="1938.18" type="Wall" target=""/>
+            <linesegment x1="2981.79" y1="1938.18" x2="2995.88" y2="1863.28" type="Wall" target=""/>
+            <linesegment x1="2995.88" y1="1863.28" x2="2846.6" y2="1834.35" type="Wall" target=""/>
+            <linesegment x1="2846.6" y1="1834.35" x2="2739.66" y2="1811.27" type="Portal" target="A0093001_3170C"/>
+            <linesegment x1="2739.66" y1="1811.27" x2="2742.27" y2="1796.47" type="Wall" target=""/>
+            <linesegment x1="2742.27" y1="1796.47" x2="2705.48" y2="1789.08" type="Wall" target=""/>
+            <linesegment x1="2705.48" y1="1789.08" x2="2701.41" y2="1808.75" type="Wall" target=""/>
+            <linesegment x1="2701.41" y1="1808.75" x2="2624.89" y2="1792.84" type="Portal" target="A0093001_3170C"/>
+            <linesegment x1="2624.89" y1="1792.84" x2="2275.83" y2="1722.38" type="Wall" target=""/>
+            <linesegment x1="2275.83" y1="1722.38" x2="2278.3" y2="1706.56" type="Wall" target=""/>
+            <linesegment x1="2278.3" y1="1706.56" x2="2238.95" y2="1698.58" type="Wall" target=""/>
+            <linesegment x1="2238.95" y1="1698.58" x2="2237.97" y2="1714.27" type="Wall" target=""/>
+            <linesegment x1="2237.97" y1="1714.27" x2="1974.44" y2="1664.46" type="Wall" target=""/>
+            <linesegment x1="1974.44" y1="1664.46" x2="1864.2" y2="1643.97" type="Portal" target="A0093001_3172D"/>
+            <linesegment x1="1864.2" y1="1643.97" x2="1811.13" y2="1632.82" type="Wall" target=""/>
+            <linesegment x1="1811.13" y1="1632.82" x2="1817.55" y2="1600.58" type="Wall" target=""/>
+            <linesegment x1="1817.55" y1="1600.58" x2="1803.09" y2="1597.32" type="Wall" target=""/>
+            <linesegment x1="1803.09" y1="1597.32" x2="1824.96" y2="1480.3" type="Wall" target=""/>
+            <linesegment x1="1824.96" y1="1480.3" x2="1849.13" y2="1358.21" type="Portal" target="A0093001_3173A"/>
+            <linesegment x1="1849.13" y1="1358.21" x2="1911.73" y2="1032" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_3173A"/>
+        <portal target="A0093001_3164B"/>
+        <portal target="A0093001_3164D"/>
+        <portal target="A0093001_3164L"/>
+        <portal target="A0093001_3172D"/>
+        <portal target="A0093001_3170C"/>
+        <portal target="A0093001_3163"/>
+        <portal target="A0093001_3162A"/>
+    </space>
+    <space name="A0093001_3164B" type="">
+        <contour>
+            <centroid x="6793.85" y="1895.01"/>
+            <linesegment x1="6078.38" y1="1949.36" x2="6153.66" y2="1573.83" type="Wall" target=""/>
+            <linesegment x1="6153.66" y1="1573.83" x2="6580.67" y2="1658.1" type="Wall" target=""/>
+            <linesegment x1="6580.67" y1="1658.1" x2="6572.21" y2="1704.56" type="Wall" target=""/>
+            <linesegment x1="6572.21" y1="1704.56" x2="6609.22" y2="1712.82" type="Wall" target=""/>
+            <linesegment x1="6609.22" y1="1712.82" x2="6618.75" y2="1665.17" type="Wall" target=""/>
+            <linesegment x1="6618.75" y1="1665.17" x2="7043.28" y2="1748.09" type="Wall" target=""/>
+            <linesegment x1="7043.28" y1="1748.09" x2="7034.66" y2="1794.13" type="Wall" target=""/>
+            <linesegment x1="7034.66" y1="1794.13" x2="7071.42" y2="1802.3" type="Wall" target=""/>
+            <linesegment x1="7071.42" y1="1802.3" x2="7080.87" y2="1754.8" type="Wall" target=""/>
+            <linesegment x1="7080.87" y1="1754.8" x2="7504.03" y2="1837.57" type="Wall" target=""/>
+            <linesegment x1="7504.03" y1="1837.57" x2="7492.92" y2="1900.1" type="Wall" target=""/>
+            <linesegment x1="7492.92" y1="1900.1" x2="7497.43" y2="1900.96" type="Wall" target=""/>
+            <linesegment x1="7497.43" y1="1900.96" x2="7438.34" y2="2211.86" type="Wall" target=""/>
+            <linesegment x1="7438.34" y1="2211.86" x2="7333.42" y2="2192.83" type="Wall" target=""/>
+            <linesegment x1="7333.42" y1="2192.83" x2="7210.59" y2="2169.39" type="Portal" target="A0093001_3164A"/>
+            <linesegment x1="7210.59" y1="2169.39" x2="6389.65" y2="2009.17" type="Wall" target=""/>
+            <linesegment x1="6389.65" y1="2009.17" x2="6328.84" y2="1998.12" type="Portal" target="A0093001_3164A"/>
+            <linesegment x1="6328.84" y1="1998.12" x2="6078.38" y2="1949.36" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_3164A"/>
+    </space>
+    <space name="A0093001_3164E" type="SUPRUM">
+        <contour>
+            <centroid x="8906.56" y="2653.47"/>
+            <linesegment x1="8843.15" y1="2506.18" x2="9026.68" y2="2540.82" type="Wall" target=""/>
+            <linesegment x1="9026.68" y1="2540.82" x2="8976.78" y2="2802.67" type="Wall" target=""/>
+            <linesegment x1="8976.78" y1="2802.67" x2="8786.12" y2="2766.23" type="Wall" target=""/>
+            <linesegment x1="8786.12" y1="2766.23" x2="8796.97" y2="2715.39" type="Wall" target=""/>
+            <linesegment x1="8796.97" y1="2715.39" x2="8817.91" y2="2600.25" type="Portal" target="A0093001_3164D"/>
+            <linesegment x1="8817.91" y1="2600.25" x2="8835.02" y2="2504.39" type="Wall" target=""/>
+            <linesegment x1="8835.02" y1="2504.39" x2="8843.15" y2="2506.18" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_3164D"/>
+    </space>
+    <space name="A0093001_3164D" type="SVETS/PLÅTVERKSTAD">
+        <contour>
+            <centroid x="8607.84" y="2514.07"/>
+            <linesegment x1="8476.21" y1="2026.42" x2="8611.7" y2="2052.49" type="Wall" target=""/>
+            <linesegment x1="8611.7" y1="2052.49" x2="8692.3" y2="2067.97" type="Window" target=""/>
+            <linesegment x1="8692.3" y1="2067.97" x2="8775.06" y2="2084.51" type="Wall" target=""/>
+            <linesegment x1="8775.06" y1="2084.51" x2="8898.83" y2="2108.37" type="Wall" target=""/>
+            <linesegment x1="8898.83" y1="2108.37" x2="8889.45" y2="2156.98" type="Wall" target=""/>
+            <linesegment x1="8889.45" y1="2156.98" x2="8831.59" y2="2466" type="Portal" target="A0093001_3164F"/>
+            <linesegment x1="8831.59" y1="2466" x2="8824.75" y2="2501.11" type="Wall" target=""/>
+            <linesegment x1="8824.75" y1="2501.11" x2="8806.17" y2="2601" type="Wall" target=""/>
+            <linesegment x1="8806.17" y1="2601" x2="8783.39" y2="2714.37" type="Portal" target="A0093001_3164E"/>
+            <linesegment x1="8783.39" y1="2714.37" x2="8772.34" y2="2776.11" type="Wall" target=""/>
+            <linesegment x1="8772.34" y1="2776.11" x2="8735.51" y2="2961.06" type="Portal" target="A0093001_3164F"/>
+            <linesegment x1="8735.51" y1="2961.06" x2="8726.91" y2="3006.2" type="Wall" target=""/>
+            <linesegment x1="8726.91" y1="3006.2" x2="8633.17" y2="2989.45" type="Wall" target=""/>
+            <linesegment x1="8633.17" y1="2989.45" x2="8552.65" y2="2974.26" type="Window" target=""/>
+            <linesegment x1="8552.65" y1="2974.26" x2="8471.49" y2="2958.98" type="Wall" target=""/>
+            <linesegment x1="8471.49" y1="2958.98" x2="8390.82" y2="2943.04" type="Window" target=""/>
+            <linesegment x1="8390.82" y1="2943.04" x2="8309.57" y2="2926.97" type="Wall" target=""/>
+            <linesegment x1="8309.57" y1="2926.97" x2="8321.29" y2="2864.73" type="Wall" target=""/>
+            <linesegment x1="8321.29" y1="2864.73" x2="8350.41" y2="2711.69" type="Portal" target="A0093001_3164A"/>
+            <linesegment x1="8350.41" y1="2711.69" x2="8353.83" y2="2695.77" type="Wall" target=""/>
+            <linesegment x1="8353.83" y1="2695.77" x2="8385.57" y2="2701.76" type="Wall" target=""/>
+            <linesegment x1="8385.57" y1="2701.76" x2="8391.81" y2="2665.88" type="Wall" target=""/>
+            <linesegment x1="8391.81" y1="2665.88" x2="8361.71" y2="2658.82" type="Wall" target=""/>
+            <linesegment x1="8361.71" y1="2658.82" x2="8362.28" y2="2656.13" type="Wall" target=""/>
+            <linesegment x1="8362.28" y1="2656.13" x2="8404.65" y2="2664.48" type="Wall" target=""/>
+            <linesegment x1="8404.65" y1="2664.48" x2="8435.31" y2="2513.9" type="Wall" target=""/>
+            <linesegment x1="8435.31" y1="2513.9" x2="8392.13" y2="2504.56" type="Wall" target=""/>
+            <linesegment x1="8392.13" y1="2504.56" x2="8410.84" y2="2401.49" type="Wall" target=""/>
+            <linesegment x1="8410.84" y1="2401.49" x2="8402.19" y2="2400.36" type="Wall" target=""/>
+            <linesegment x1="8402.19" y1="2400.36" x2="8476.21" y2="2026.42" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_3164A"/>
+        <portal target="A0093001_3164E"/>
+        <portal target="A0093001_3164F"/>
+    </space>
+    <space name="A0093001_3164F" type="MASKINVERKSTAD">
+        <contour>
+            <centroid x="9138.49" y="2610.05"/>
+            <linesegment x1="8762.21" y1="3014.08" x2="8772.09" y2="2966.46" type="Wall" target=""/>
+            <linesegment x1="8772.09" y1="2966.46" x2="8808.95" y2="2783.19" type="Portal" target="A0093001_3164D"/>
+            <linesegment x1="8808.95" y1="2783.19" x2="8984.69" y2="2817.23" type="Wall" target=""/>
+            <linesegment x1="8984.69" y1="2817.23" x2="9042.1" y2="2531.93" type="Wall" target=""/>
+            <linesegment x1="9042.1" y1="2531.93" x2="8862.76" y2="2495.96" type="Wall" target=""/>
+            <linesegment x1="8862.76" y1="2495.96" x2="8868.49" y2="2471.85" type="Wall" target=""/>
+            <linesegment x1="8868.49" y1="2471.85" x2="8927.06" y2="2159.9" type="Portal" target="A0093001_3164D"/>
+            <linesegment x1="8927.06" y1="2159.9" x2="8936.05" y2="2115.47" type="Wall" target=""/>
+            <linesegment x1="8936.05" y1="2115.47" x2="8981.19" y2="2124.71" type="Wall" target=""/>
+            <linesegment x1="8981.19" y1="2124.71" x2="9317.73" y2="2189.41" type="Window" target=""/>
+            <linesegment x1="9317.73" y1="2189.41" x2="9362.74" y2="2199.52" type="Wall" target=""/>
+            <linesegment x1="9362.74" y1="2199.52" x2="9354.7" y2="2244.75" type="Wall" target=""/>
+            <linesegment x1="9354.7" y1="2244.75" x2="9390.96" y2="2252.6" type="Wall" target=""/>
+            <linesegment x1="9390.96" y1="2252.6" x2="9400.76" y2="2206.18" type="Wall" target=""/>
+            <linesegment x1="9400.76" y1="2206.18" x2="9444.82" y2="2214.93" type="Wall" target=""/>
+            <linesegment x1="9444.82" y1="2214.93" x2="9522.87" y2="2229.46" type="Window" target=""/>
+            <linesegment x1="9522.87" y1="2229.46" x2="9473.59" y2="2482.45" type="Wall" target=""/>
+            <linesegment x1="9473.59" y1="2482.45" x2="9342.51" y2="2456.59" type="Wall" target=""/>
+            <linesegment x1="9342.51" y1="2456.59" x2="9322.1" y2="2560.07" type="Wall" target=""/>
+            <linesegment x1="9322.1" y1="2560.07" x2="9295.1" y2="2554.95" type="Wall" target=""/>
+            <linesegment x1="9295.1" y1="2554.95" x2="9286.84" y2="2592.86" type="Wall" target=""/>
+            <linesegment x1="9286.84" y1="2592.86" x2="9313.06" y2="2599.09" type="Wall" target=""/>
+            <linesegment x1="9313.06" y1="2599.09" x2="9267.71" y2="2839.83" type="Wall" target=""/>
+            <linesegment x1="9267.71" y1="2839.83" x2="9300.81" y2="2847.78" type="Wall" target=""/>
+            <linesegment x1="9300.81" y1="2847.78" x2="9376.45" y2="2861.48" type="Portal" target="A0093001_3164J"/>
+            <linesegment x1="9376.45" y1="2861.48" x2="9387.47" y2="2863.88" type="Wall" target=""/>
+            <linesegment x1="9387.47" y1="2863.88" x2="9369.74" y2="2958.5" type="Wall" target=""/>
+            <linesegment x1="9369.74" y1="2958.5" x2="9355.96" y2="3035.17" type="Portal" target="A0093001_3164G"/>
+            <linesegment x1="9355.96" y1="3035.17" x2="9337.56" y2="3125.7" type="Wall" target=""/>
+            <linesegment x1="9337.56" y1="3125.7" x2="9224.93" y2="3105.5" type="Wall" target=""/>
+            <linesegment x1="9224.93" y1="3105.5" x2="9235.04" y2="3057.57" type="Wall" target=""/>
+            <linesegment x1="9235.04" y1="3057.57" x2="9197.21" y2="3050.47" type="Wall" target=""/>
+            <linesegment x1="9197.21" y1="3050.47" x2="9188.39" y2="3095.61" type="Wall" target=""/>
+            <linesegment x1="9188.39" y1="3095.61" x2="9141.31" y2="3087.66" type="Wall" target=""/>
+            <linesegment x1="9141.31" y1="3087.66" x2="8807.71" y2="3023.51" type="Window" target=""/>
+            <linesegment x1="8807.71" y1="3023.51" x2="8762.21" y2="3014.08" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_3164D"/>
+        <portal target="A0093001_3164J"/>
+        <portal target="A0093001_3164G"/>
+    </space>
+    <space name="A0093001_3164M" type="KONTOR/PAUS">
+        <contour>
+            <centroid x="9668.66" y="2390.83"/>
+            <linesegment x1="9484.98" y1="2483.95" x2="9535.01" y2="2230.78" type="Wall" target=""/>
+            <linesegment x1="9535.01" y1="2230.78" x2="9782.03" y2="2279.82" type="Window" target=""/>
+            <linesegment x1="9782.03" y1="2279.82" x2="9827.15" y2="2289.81" type="Wall" target=""/>
+            <linesegment x1="9827.15" y1="2289.81" x2="9817.96" y2="2335.17" type="Wall" target=""/>
+            <linesegment x1="9817.96" y1="2335.17" x2="9848.7" y2="2341.57" type="Wall" target=""/>
+            <linesegment x1="9848.7" y1="2341.57" x2="9825.34" y2="2464.74" type="Wall" target=""/>
+            <linesegment x1="9825.34" y1="2464.74" x2="9809.45" y2="2547.73" type="Window" target=""/>
+            <linesegment x1="9809.45" y1="2547.73" x2="9776.55" y2="2541.23" type="Wall" target=""/>
+            <linesegment x1="9776.55" y1="2541.23" x2="9637.12" y2="2514.09" type="Window" target=""/>
+            <linesegment x1="9637.12" y1="2514.09" x2="9610.2" y2="2508.29" type="Wall" target=""/>
+            <linesegment x1="9610.2" y1="2508.29" x2="9541.4" y2="2495.74" type="Portal" target="A0093001_3164J"/>
+            <linesegment x1="9541.4" y1="2495.74" x2="9484.98" y2="2483.95" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_3164J"/>
+    </space>
+    <space name="A0093001_3164K" type="TOALETT">
+        <contour>
+            <centroid x="9403.87" y="2524.2"/>
+            <linesegment x1="9335.15" y1="2553.05" x2="9351.41" y2="2471.59" type="Wall" target=""/>
+            <linesegment x1="9351.41" y1="2471.59" x2="9471.11" y2="2494.51" type="Wall" target=""/>
+            <linesegment x1="9471.11" y1="2494.51" x2="9470.02" y2="2502.28" type="Wall" target=""/>
+            <linesegment x1="9470.02" y1="2502.28" x2="9462.88" y2="2547.44" type="Portal" target="A0093001_3164J"/>
+            <linesegment x1="9462.88" y1="2547.44" x2="9456.04" y2="2576.94" type="Wall" target=""/>
+            <linesegment x1="9456.04" y1="2576.94" x2="9335.15" y2="2553.05" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_3164J"/>
+    </space>
+    <space name="A0093001_3164J" type="BÄNKVERKSTAD">
+        <contour>
+            <centroid x="9554.04" y="2709.24"/>
+            <linesegment x1="9280.77" y1="2830.95" x2="9333.21" y2="2564.74" type="Wall" target=""/>
+            <linesegment x1="9333.21" y1="2564.74" x2="9465.01" y2="2591.26" type="Wall" target=""/>
+            <linesegment x1="9465.01" y1="2591.26" x2="9473.88" y2="2548.4" type="Wall" target=""/>
+            <linesegment x1="9473.88" y1="2548.4" x2="9482.23" y2="2503.76" type="Portal" target="A0093001_3164K"/>
+            <linesegment x1="9482.23" y1="2503.76" x2="9483.77" y2="2496.23" type="Wall" target=""/>
+            <linesegment x1="9483.77" y1="2496.23" x2="9541.1" y2="2507.31" type="Wall" target=""/>
+            <linesegment x1="9541.1" y1="2507.31" x2="9608.43" y2="2520.83" type="Portal" target="A0093001_3164M"/>
+            <linesegment x1="9608.43" y1="2520.83" x2="9636" y2="2526.28" type="Wall" target=""/>
+            <linesegment x1="9636" y1="2526.28" x2="9774.49" y2="2552.79" type="Window" target=""/>
+            <linesegment x1="9774.49" y1="2552.79" x2="9805.91" y2="2559.2" type="Wall" target=""/>
+            <linesegment x1="9805.91" y1="2559.2" x2="9788.73" y2="2652.4" type="Wall" target=""/>
+            <linesegment x1="9788.73" y1="2652.4" x2="9758.21" y2="2645.95" type="Wall" target=""/>
+            <linesegment x1="9758.21" y1="2645.95" x2="9750.57" y2="2682.3" type="Wall" target=""/>
+            <linesegment x1="9750.57" y1="2682.3" x2="9783.53" y2="2690.16" type="Wall" target=""/>
+            <linesegment x1="9783.53" y1="2690.16" x2="9781.91" y2="2696.66" type="Wall" target=""/>
+            <linesegment x1="9781.91" y1="2696.66" x2="9739.08" y2="2919.57" type="Window" target=""/>
+            <linesegment x1="9739.08" y1="2919.57" x2="9378.19" y2="2849.77" type="Wall" target=""/>
+            <linesegment x1="9378.19" y1="2849.77" x2="9302.9" y2="2835.44" type="Portal" target="A0093001_3164F"/>
+            <linesegment x1="9302.9" y1="2835.44" x2="9280.77" y2="2830.95" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_3164M"/>
+        <portal target="A0093001_3164K"/>
+        <portal target="A0093001_3164F"/>
+    </space>
+    <space name="A0093001_3164G" type="FÖRRÅD">
+        <contour>
+            <centroid x="9540.17" y="3027.5"/>
+            <linesegment x1="9400.04" y1="2866.75" x2="9735.99" y2="2932.71" type="Wall" target=""/>
+            <linesegment x1="9735.99" y1="2932.71" x2="9721.98" y2="3000.98" type="Window" target=""/>
+            <linesegment x1="9721.98" y1="3000.98" x2="9692.63" y2="3147.52" type="Wall" target=""/>
+            <linesegment x1="9692.63" y1="3147.52" x2="9661.6" y2="3140.41" type="Wall" target=""/>
+            <linesegment x1="9661.6" y1="3140.41" x2="9652.89" y2="3186.53" type="Wall" target=""/>
+            <linesegment x1="9652.89" y1="3186.53" x2="9349.76" y2="3127.88" type="Wall" target=""/>
+            <linesegment x1="9349.76" y1="3127.88" x2="9368.3" y2="3035.92" type="Wall" target=""/>
+            <linesegment x1="9368.3" y1="3035.92" x2="9381.6" y2="2960.77" type="Portal" target="A0093001_3164F"/>
+            <linesegment x1="9381.6" y1="2960.77" x2="9400.04" y2="2866.75" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_3164F"/>
+    </space>
+    <space name="A0093001_3164L" type="">
+        <contour>
+            <centroid x="6391.95" y="2811.94"/>
+            <linesegment x1="5947.91" y1="2958.69" x2="5947.69" y2="2906.68" type="Wall" target=""/>
+            <linesegment x1="5947.69" y1="2906.68" x2="5947.95" y2="2732.58" type="Window" target=""/>
+            <linesegment x1="5947.95" y1="2732.58" x2="5946.82" y2="2687.16" type="Wall" target=""/>
+            <linesegment x1="5946.82" y1="2687.16" x2="5947.39" y2="2513.15" type="Window" target=""/>
+            <linesegment x1="5947.39" y1="2513.15" x2="5948.13" y2="2497.45" type="Wall" target=""/>
+            <linesegment x1="5948.13" y1="2497.45" x2="6066.65" y2="2522.03" type="Wall" target=""/>
+            <linesegment x1="6066.65" y1="2522.03" x2="6145.39" y2="2536" type="Portal" target="A0093001_3164A"/>
+            <linesegment x1="6145.39" y1="2536" x2="6228.4" y2="2551.69" type="Wall" target=""/>
+            <linesegment x1="6228.4" y1="2551.69" x2="6309.17" y2="2568.43" type="Window" target=""/>
+            <linesegment x1="6309.17" y1="2568.43" x2="6329.81" y2="2572.49" type="Wall" target=""/>
+            <linesegment x1="6329.81" y1="2572.49" x2="6418.77" y2="2606.5" type="Wall" target=""/>
+            <linesegment x1="6418.77" y1="2606.5" x2="6422.29" y2="2590.07" type="Wall" target=""/>
+            <linesegment x1="6422.29" y1="2590.07" x2="6529.12" y2="2610.7" type="Wall" target=""/>
+            <linesegment x1="6529.12" y1="2610.7" x2="6609.93" y2="2625.32" type="Window" target=""/>
+            <linesegment x1="6609.93" y1="2625.32" x2="6690.97" y2="2642.3" type="Wall" target=""/>
+            <linesegment x1="6690.97" y1="2642.3" x2="6772.84" y2="2657" type="Window" target=""/>
+            <linesegment x1="6772.84" y1="2657" x2="6795.01" y2="2662.4" type="Wall" target=""/>
+            <linesegment x1="6795.01" y1="2662.4" x2="6876.59" y2="2694.24" type="Wall" target=""/>
+            <linesegment x1="6876.59" y1="2694.24" x2="6859.25" y2="2786.62" type="Wall" target=""/>
+            <linesegment x1="6859.25" y1="2786.62" x2="6844.02" y2="2864.97" type="Window" target=""/>
+            <linesegment x1="6844.02" y1="2864.97" x2="6828.14" y2="2947.72" type="Wall" target=""/>
+            <linesegment x1="6828.14" y1="2947.72" x2="6812.63" y2="3028.74" type="Window" target=""/>
+            <linesegment x1="6812.63" y1="3028.74" x2="6794.12" y2="3123.43" type="Wall" target=""/>
+            <linesegment x1="6794.12" y1="3123.43" x2="6698.21" y2="3104.89" type="Wall" target=""/>
+            <linesegment x1="6698.21" y1="3104.89" x2="6617.38" y2="3089.56" type="Window" target=""/>
+            <linesegment x1="6617.38" y1="3089.56" x2="6534.82" y2="3073.49" type="Wall" target=""/>
+            <linesegment x1="6534.82" y1="3073.49" x2="6454.32" y2="3057.78" type="Window" target=""/>
+            <linesegment x1="6454.32" y1="3057.78" x2="6271.08" y2="3022.82" type="Wall" target=""/>
+            <linesegment x1="6271.08" y1="3022.82" x2="6241.66" y2="3016.64" type="Wall" target=""/>
+            <linesegment x1="6241.66" y1="3016.64" x2="6159.97" y2="3001.24" type="Window" target=""/>
+            <linesegment x1="6159.97" y1="3001.24" x2="5947.91" y2="2958.69" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_3164A"/>
+    </space>
+    <space name="A0093001_3172D" type="">
+        <contour>
+            <centroid x="1788.8" y="1867.08"/>
+            <linesegment x1="1375.58" y1="1907.52" x2="1375.58" y2="1629.24" type="Wall" target=""/>
+            <linesegment x1="1375.58" y1="1629.24" x2="1773.39" y2="1629.24" type="Wall" target=""/>
+            <linesegment x1="1773.39" y1="1629.24" x2="1766.47" y2="1661.43" type="Wall" target=""/>
+            <linesegment x1="1766.47" y1="1661.43" x2="1861.62" y2="1679.57" type="Wall" target=""/>
+            <linesegment x1="1861.62" y1="1679.57" x2="1968" y2="1699.62" type="Portal" target="A0093001_3164A"/>
+            <linesegment x1="1968" y1="1699.62" x2="2264.72" y2="1757.88" type="Wall" target=""/>
+            <linesegment x1="2264.72" y1="1757.88" x2="2264.45" y2="2075.17" type="Wall" target=""/>
+            <linesegment x1="2264.45" y1="2075.17" x2="1975.8" y2="2075.17" type="Wall" target=""/>
+            <linesegment x1="1975.8" y1="2075.17" x2="1975.8" y2="2002.52" type="Wall" target=""/>
+            <linesegment x1="1975.8" y1="2002.52" x2="1947.2" y2="2002.52" type="Wall" target=""/>
+            <linesegment x1="1947.2" y1="2002.52" x2="1828.09" y2="2002.52" type="Portal" target="A0093001_3172B"/>
+            <linesegment x1="1828.09" y1="2002.52" x2="1828.09" y2="2075.6" type="Wall" target=""/>
+            <linesegment x1="1828.09" y1="2075.6" x2="1373.77" y2="2075.6" type="Wall" target=""/>
+            <linesegment x1="1373.77" y1="2075.6" x2="1373.77" y2="2058.78" type="Window" target=""/>
+            <linesegment x1="1373.77" y1="2058.78" x2="1373.77" y2="2005.33" type="Wall" target=""/>
+            <linesegment x1="1373.77" y1="2005.33" x2="1373.77" y2="1932.34" type="Window" target=""/>
+            <linesegment x1="1373.77" y1="1932.34" x2="1375.58" y2="1907.52" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_3164A"/>
+        <portal target="A0093001_3172B"/>
+    </space>
+    <space name="A0093001_3172B" type="">
+        <contour>
+            <centroid x="1822.14" y="2252.79"/>
+            <linesegment x1="1375.26" y1="2410.54" x2="1375.26" y2="2136.35" type="Wall" target=""/>
+            <linesegment x1="1375.26" y1="2136.35" x2="1375.26" y2="2083.61" type="Window" target=""/>
+            <linesegment x1="1375.26" y1="2083.61" x2="1834.62" y2="2083.61" type="Wall" target=""/>
+            <linesegment x1="1834.62" y1="2083.61" x2="1834.62" y2="2043.47" type="Wall" target=""/>
+            <linesegment x1="1834.62" y1="2043.47" x2="1967.81" y2="2043.47" type="Portal" target="A0093001_3172D"/>
+            <linesegment x1="1967.81" y1="2043.47" x2="1967.81" y2="2083.27" type="Wall" target=""/>
+            <linesegment x1="1967.81" y1="2083.27" x2="2265.48" y2="2083.27" type="Wall" target=""/>
+            <linesegment x1="2265.48" y1="2083.27" x2="2265.48" y2="2430.29" type="Wall" target=""/>
+            <linesegment x1="2265.48" y1="2430.29" x2="2189.32" y2="2430.29" type="Wall" target=""/>
+            <linesegment x1="2189.32" y1="2430.29" x2="2121.09" y2="2430.29" type="Portal" target="A0093001_3172A"/>
+            <linesegment x1="2121.09" y1="2430.29" x2="1977.72" y2="2430.29" type="Wall" target=""/>
+            <linesegment x1="1977.72" y1="2430.29" x2="1977.72" y2="2406.34" type="Wall" target=""/>
+            <linesegment x1="1977.72" y1="2406.34" x2="1948.31" y2="2406.34" type="Wall" target=""/>
+            <linesegment x1="1948.31" y1="2406.34" x2="1948.31" y2="2429.33" type="Wall" target=""/>
+            <linesegment x1="1948.31" y1="2429.33" x2="1540.28" y2="2429.33" type="Wall" target=""/>
+            <linesegment x1="1540.28" y1="2429.33" x2="1472.08" y2="2429.33" type="Portal" target="A0093001_3172C"/>
+            <linesegment x1="1472.08" y1="2429.33" x2="1387.99" y2="2429.33" type="Wall" target=""/>
+            <linesegment x1="1387.99" y1="2429.33" x2="1387.99" y2="2410.74" type="Wall" target=""/>
+            <linesegment x1="1387.99" y1="2410.74" x2="1375.26" y2="2410.54" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_3172D"/>
+        <portal target="A0093001_3172C"/>
+        <portal target="A0093001_3172A"/>
+    </space>
+    <space name="A0093001_3172C" type="">
+        <contour>
+            <centroid x="1491.79" y="2709.4"/>
+            <linesegment x1="1376.4" y1="2982.03" x2="1376.4" y2="2845.7" type="Wall" target=""/>
+            <linesegment x1="1376.4" y1="2845.7" x2="1387.21" y2="2845.7" type="Wall" target=""/>
+            <linesegment x1="1387.21" y1="2845.7" x2="1387.21" y2="2814.6" type="Wall" target=""/>
+            <linesegment x1="1387.21" y1="2814.6" x2="1376.53" y2="2814.6" type="Wall" target=""/>
+            <linesegment x1="1376.53" y1="2814.6" x2="1376.53" y2="2441.74" type="Wall" target=""/>
+            <linesegment x1="1376.53" y1="2441.74" x2="1387" y2="2441.74" type="Wall" target=""/>
+            <linesegment x1="1387" y1="2441.74" x2="1387" y2="2437.5" type="Wall" target=""/>
+            <linesegment x1="1387" y1="2437.5" x2="1473.78" y2="2437.5" type="Wall" target=""/>
+            <linesegment x1="1473.78" y1="2437.5" x2="1541.8" y2="2437.5" type="Portal" target="A0093001_3172B"/>
+            <linesegment x1="1541.8" y1="2437.5" x2="1606.47" y2="2437.5" type="Wall" target=""/>
+            <linesegment x1="1606.47" y1="2437.5" x2="1606.47" y2="2981.36" type="Wall" target=""/>
+            <linesegment x1="1606.47" y1="2981.36" x2="1376.4" y2="2982.03" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_3172B"/>
+    </space>
+    <space name="A0093001_3172A" type="">
+        <contour>
+            <centroid x="1942.07" y="2712.37"/>
+            <linesegment x1="1619.86" y1="2981.63" x2="1619.86" y2="2443.52" type="Wall" target=""/>
+            <linesegment x1="1619.86" y1="2443.52" x2="2123.44" y2="2443.52" type="Wall" target=""/>
+            <linesegment x1="2123.44" y1="2443.52" x2="2190.06" y2="2443.52" type="Portal" target="A0093001_3172B"/>
+            <linesegment x1="2190.06" y1="2443.52" x2="2264.45" y2="2443.52" type="Wall" target=""/>
+            <linesegment x1="2264.45" y1="2443.52" x2="2264.45" y2="2893.54" type="Wall" target=""/>
+            <linesegment x1="2264.45" y1="2893.54" x2="2264.45" y2="2966.78" type="Portal" target="A0093001_3167A"/>
+            <linesegment x1="2264.45" y1="2966.78" x2="2264.45" y2="2980.8" type="Wall" target=""/>
+            <linesegment x1="2264.45" y1="2980.8" x2="1619.86" y2="2981.63" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_3172B"/>
+        <portal target="A0093001_3167A"/>
+    </space>
+    <space name="A0093001_3167A" type="">
+        <contour>
+            <centroid x="2456.14" y="2854.94"/>
+            <linesegment x1="2301.82" y1="2711.96" x2="2610.89" y2="2711.96" type="Wall" target=""/>
+            <linesegment x1="2610.89" y1="2711.96" x2="2610.89" y2="2775.55" type="Wall" target=""/>
+            <linesegment x1="2610.89" y1="2775.55" x2="2610.89" y2="2844.35" type="Portal" target="A0093001_3170D"/>
+            <linesegment x1="2610.89" y1="2844.35" x2="2610.89" y2="2997.83" type="Wall" target=""/>
+            <linesegment x1="2610.89" y1="2997.83" x2="2301.2" y2="2997.83" type="Wall" target=""/>
+            <linesegment x1="2301.2" y1="2997.83" x2="2301.2" y2="2964.72" type="Wall" target=""/>
+            <linesegment x1="2301.2" y1="2964.72" x2="2301.2" y2="2891.07" type="Portal" target="A0093001_3172A"/>
+            <linesegment x1="2301.2" y1="2891.07" x2="2301.82" y2="2711.96" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_3172A"/>
+        <portal target="A0093001_3170D"/>
+    </space>
+    <space name="A0093001_3170" type="">
+        <contour>
+            <centroid x="2919.53" y="2867.65"/>
+            <linesegment x1="2866.86" y1="2828.85" x2="2972.42" y2="2828.85" type="Wall" target=""/>
+            <linesegment x1="2972.42" y1="2828.85" x2="2972.42" y2="2906.42" type="Wall" target=""/>
+            <linesegment x1="2972.42" y1="2906.42" x2="2866.58" y2="2906.42" type="Wall" target=""/>
+            <linesegment x1="2866.58" y1="2906.42" x2="2866.58" y2="2902.91" type="Wall" target=""/>
+            <linesegment x1="2866.58" y1="2902.91" x2="2866.58" y2="2857.99" type="Portal" target="A0093001_3170D"/>
+            <linesegment x1="2866.58" y1="2857.99" x2="2866.86" y2="2828.85" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_3170D"/>
+    </space>
+    <space name="A0093001_T32" type="TRAPPA">
+        <contour>
+            <centroid x="3023.49" y="2927.66"/>
+            <linesegment x1="2998.52" y1="2828.39" x2="3132.56" y2="2828.39" type="Wall" target=""/>
+            <linesegment x1="3132.56" y1="2828.39" x2="3132.56" y2="2998.18" type="Wall" target=""/>
+            <linesegment x1="3132.56" y1="2998.18" x2="2865.28" y2="2998.18" type="Wall" target=""/>
+            <linesegment x1="2865.28" y1="2998.18" x2="2865.28" y2="2919.73" type="Portal" target="A0093001_3170D"/>
+            <linesegment x1="2865.28" y1="2919.73" x2="2998.63" y2="2919.73" type="Wall" target=""/>
+            <linesegment x1="2998.63" y1="2919.73" x2="2998.52" y2="2828.39" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_3170D"/>
+    </space>
+    <space name="A0093001_3169B" type="TOALETT">
+        <contour>
+            <centroid x="3093.17" y="2696.7"/>
+            <linesegment x1="3053.73" y1="2661.58" x2="3132.95" y2="2661.58" type="Wall" target=""/>
+            <linesegment x1="3132.95" y1="2661.58" x2="3132.95" y2="2731.78" type="Wall" target=""/>
+            <linesegment x1="3132.95" y1="2731.78" x2="3053.34" y2="2731.78" type="Wall" target=""/>
+            <linesegment x1="3053.34" y1="2731.78" x2="3053.34" y2="2680.28" type="Portal" target="A0093001_3169"/>
+            <linesegment x1="3053.34" y1="2680.28" x2="3053.73" y2="2661.58" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_3169"/>
+    </space>
+    <space name="A0093001_3169A" type="TOALETT">
+        <contour>
+            <centroid x="3093.62" y="2780.83"/>
+            <linesegment x1="3053.92" y1="2745.68" x2="3132.74" y2="2745.68" type="Wall" target=""/>
+            <linesegment x1="3132.74" y1="2745.68" x2="3132.74" y2="2815.99" type="Wall" target=""/>
+            <linesegment x1="3132.74" y1="2815.99" x2="3054.52" y2="2815.99" type="Wall" target=""/>
+            <linesegment x1="3054.52" y1="2815.99" x2="3054.52" y2="2793.34" type="Wall" target=""/>
+            <linesegment x1="3054.52" y1="2793.34" x2="3054.52" y2="2749.69" type="Portal" target="A0093001_3169"/>
+            <linesegment x1="3054.52" y1="2749.69" x2="3053.92" y2="2745.68" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_3169"/>
+    </space>
+    <space name="A0093001_3169" type="">
+        <contour>
+            <centroid x="2953.47" y="2738.79"/>
+            <linesegment x1="2866.85" y1="2661.93" x2="3039.8" y2="2661.93" type="Wall" target=""/>
+            <linesegment x1="3039.8" y1="2661.93" x2="3039.8" y2="2681.43" type="Wall" target=""/>
+            <linesegment x1="3039.8" y1="2681.43" x2="3039.8" y2="2733.3" type="Portal" target="A0093001_3169B"/>
+            <linesegment x1="3039.8" y1="2733.3" x2="3039.8" y2="2747.15" type="Wall" target=""/>
+            <linesegment x1="3039.8" y1="2747.15" x2="3039.8" y2="2794.5" type="Portal" target="A0093001_3169A"/>
+            <linesegment x1="3039.8" y1="2794.5" x2="3039.8" y2="2815.69" type="Wall" target=""/>
+            <linesegment x1="3039.8" y1="2815.69" x2="2867.21" y2="2815.69" type="Wall" target=""/>
+            <linesegment x1="2867.21" y1="2815.69" x2="2867.21" y2="2782.58" type="Wall" target=""/>
+            <linesegment x1="2867.21" y1="2782.58" x2="2867.21" y2="2721.86" type="Portal" target="A0093001_3170D"/>
+            <linesegment x1="2867.21" y1="2721.86" x2="2866.85" y2="2661.93" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_3169B"/>
+        <portal target="A0093001_3169A"/>
+        <portal target="A0093001_3170D"/>
+    </space>
+    <space name="A0093001_3168A" type="">
+        <contour>
+            <centroid x="3000.18" y="2572.61"/>
+            <linesegment x1="2866.86" y1="2649.32" x2="2866.86" y2="2606.01" type="Wall" target=""/>
+            <linesegment x1="2866.86" y1="2606.01" x2="2866.86" y2="2536.91" type="Portal" target="A0093001_3170C"/>
+            <linesegment x1="2866.86" y1="2536.91" x2="2866.86" y2="2495.96" type="Wall" target=""/>
+            <linesegment x1="2866.86" y1="2495.96" x2="3133.54" y2="2495.96" type="Wall" target=""/>
+            <linesegment x1="3133.54" y1="2495.96" x2="3133.54" y2="2649.21" type="Wall" target=""/>
+            <linesegment x1="3133.54" y1="2649.21" x2="2866.86" y2="2649.32" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_3170C"/>
+    </space>
+    <space name="A0093001_2150A" type="">
+        <contour>
+            <centroid x="2999.76" y="2358.7"/>
+            <linesegment x1="2875.08" y1="2473.57" x2="2875.08" y2="2391.85" type="Wall" target=""/>
+            <linesegment x1="2875.08" y1="2391.85" x2="2875.08" y2="2323.57" type="Portal" target="A0093001_3170C"/>
+            <linesegment x1="2875.08" y1="2323.57" x2="2875.08" y2="2244.05" type="Wall" target=""/>
+            <linesegment x1="2875.08" y1="2244.05" x2="3124.51" y2="2244.05" type="Wall" target=""/>
+            <linesegment x1="3124.51" y1="2244.05" x2="3124.51" y2="2473.13" type="Wall" target=""/>
+            <linesegment x1="3124.51" y1="2473.13" x2="2875.08" y2="2473.57" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_3170C"/>
+        <portal target="A0093001_2146A"/>
+    </space>
+    <space name="A0093001_3170D" type="">
+        <contour>
+            <centroid x="2739.03" y="2856.08"/>
+            <linesegment x1="2625.18" y1="2997.86" x2="2625.18" y2="2841.41" type="Wall" target=""/>
+            <linesegment x1="2625.18" y1="2841.41" x2="2625.18" y2="2773.73" type="Portal" target="A0093001_3167A"/>
+            <linesegment x1="2625.18" y1="2773.73" x2="2625.18" y2="2712.16" type="Wall" target=""/>
+            <linesegment x1="2625.18" y1="2712.16" x2="2701.91" y2="2712.16" type="Wall" target=""/>
+            <linesegment x1="2701.91" y1="2712.16" x2="2701.91" y2="2720.03" type="Wall" target=""/>
+            <linesegment x1="2701.91" y1="2720.03" x2="2732.49" y2="2720.03" type="Wall" target=""/>
+            <linesegment x1="2732.49" y1="2720.03" x2="2732.49" y2="2711.3" type="Wall" target=""/>
+            <linesegment x1="2732.49" y1="2711.3" x2="2852.54" y2="2711.3" type="Portal" target="A0093001_3170C"/>
+            <linesegment x1="2852.54" y1="2711.3" x2="2852.54" y2="2723.45" type="Wall" target=""/>
+            <linesegment x1="2852.54" y1="2723.45" x2="2852.54" y2="2782.65" type="Portal" target="A0093001_3169"/>
+            <linesegment x1="2852.54" y1="2782.65" x2="2852.54" y2="2859.51" type="Wall" target=""/>
+            <linesegment x1="2852.54" y1="2859.51" x2="2852.54" y2="2903.38" type="Portal" target="A0093001_3170"/>
+            <linesegment x1="2852.54" y1="2903.38" x2="2852.54" y2="2921.07" type="Wall" target=""/>
+            <linesegment x1="2852.54" y1="2921.07" x2="2852.54" y2="2999.42" type="Portal" target="A0093001_T32"/>
+            <linesegment x1="2852.54" y1="2999.42" x2="2731.45" y2="2999.42" type="Portal" target="A0093001_3171"/>
+            <linesegment x1="2731.45" y1="2999.42" x2="2625.03" y2="2999.42" type="Wall" target=""/>
+            <linesegment x1="2625.03" y1="2999.42" x2="2625.18" y2="2997.86" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_3167A"/>
+        <portal target="A0093001_3170"/>
+        <portal target="A0093001_T32"/>
+        <portal target="A0093001_3169"/>
+        <portal target="A0093001_3170C"/>
+    </space>
+    <space name="A0093001_3170B" type="">
+        <contour>
+            <centroid x="3043.41" y="2103.89"/>
+            <linesegment x1="2984.15" y1="1961.5" x2="3132.82" y2="1990.33" type="Wall" target=""/>
+            <linesegment x1="3132.82" y1="1990.33" x2="3132.82" y2="2221.23" type="Wall" target=""/>
+            <linesegment x1="3132.82" y1="2221.23" x2="2934.12" y2="2221.23" type="Wall" target=""/>
+            <linesegment x1="2934.12" y1="2221.23" x2="2941.27" y2="2184.05" type="Wall" target=""/>
+            <linesegment x1="2941.27" y1="2184.05" x2="2955.56" y2="2108.13" type="Portal" target="A0093001_3170C"/>
+            <linesegment x1="2955.56" y1="2108.13" x2="2984.15" y2="1961.5" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_3170C"/>
+    </space>
+    <space name="A0093001_3170A" type="EL">
+        <contour>
+            <centroid x="2454.35" y="2235.89"/>
+            <linesegment x1="2301.56" y1="2699.43" x2="2301.56" y2="1742.33" type="Wall" target=""/>
+            <linesegment x1="2301.56" y1="1742.33" x2="2610.52" y2="1803.09" type="Wall" target=""/>
+            <linesegment x1="2610.52" y1="1803.09" x2="2610.52" y2="1852.16" type="Wall" target=""/>
+            <linesegment x1="2610.52" y1="1852.16" x2="2610.52" y2="1976.99" type="Portal" target="A0093001_3170C"/>
+            <linesegment x1="2610.52" y1="1976.99" x2="2610.52" y2="2632.55" type="Wall" target=""/>
+            <linesegment x1="2610.52" y1="2632.55" x2="2610.52" y2="2692.17" type="Portal" target="A0093001_3170C"/>
+            <linesegment x1="2610.52" y1="2692.17" x2="2610.52" y2="2699.38" type="Wall" target=""/>
+            <linesegment x1="2610.52" y1="2699.38" x2="2301.56" y2="2699.43" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_3170C"/>
+    </space>
+    <space name="A0093001_3170C" type="KORRIDOR">
+        <contour>
+            <centroid x="2752.43" y="2251.96"/>
+            <linesegment x1="2624.41" y1="2699.31" x2="2624.41" y2="2690.95" type="Wall" target=""/>
+            <linesegment x1="2624.41" y1="2690.95" x2="2624.41" y2="2630.9" type="Portal" target="A0093001_3170A"/>
+            <linesegment x1="2624.41" y1="2630.9" x2="2624.41" y2="1973.55" type="Wall" target=""/>
+            <linesegment x1="2624.41" y1="1973.55" x2="2624.41" y2="1849.57" type="Portal" target="A0093001_3170A"/>
+            <linesegment x1="2624.41" y1="1849.57" x2="2624.41" y2="1804.78" type="Wall" target=""/>
+            <linesegment x1="2624.41" y1="1804.78" x2="2697.8" y2="1822.15" type="Portal" target="A0093001_3164A"/>
+            <linesegment x1="2697.8" y1="1822.15" x2="2694.64" y2="1839.91" type="Wall" target=""/>
+            <linesegment x1="2694.64" y1="1839.91" x2="2732.02" y2="1848.14" type="Wall" target=""/>
+            <linesegment x1="2732.02" y1="1848.14" x2="2735.95" y2="1830.01" type="Wall" target=""/>
+            <linesegment x1="2735.95" y1="1830.01" x2="2844.56" y2="1854.1" type="Portal" target="A0093001_3164A"/>
+            <linesegment x1="2844.56" y1="1854.1" x2="2841.33" y2="1868.72" type="Wall" target=""/>
+            <linesegment x1="2841.33" y1="1868.72" x2="2862.83" y2="1874.09" type="Wall" target=""/>
+            <linesegment x1="2862.83" y1="1874.09" x2="2840.99" y2="1987.38" type="Wall" target=""/>
+            <linesegment x1="2840.99" y1="1987.38" x2="2962.85" y2="2012.24" type="Wall" target=""/>
+            <linesegment x1="2962.85" y1="2012.24" x2="2944.16" y2="2107.94" type="Wall" target=""/>
+            <linesegment x1="2944.16" y1="2107.94" x2="2929.31" y2="2183.47" type="Portal" target="A0093001_3170B"/>
+            <linesegment x1="2929.31" y1="2183.47" x2="2921.82" y2="2221.32" type="Wall" target=""/>
+            <linesegment x1="2921.82" y1="2221.32" x2="2853.57" y2="2221.32" type="Wall" target=""/>
+            <linesegment x1="2853.57" y1="2221.32" x2="2853.57" y2="2322.45" type="Wall" target=""/>
+            <linesegment x1="2853.57" y1="2322.45" x2="2853.57" y2="2392.81" type="Portal" target="A0093001_2150A"/>
+            <linesegment x1="2853.57" y1="2392.81" x2="2853.57" y2="2536.97" type="Wall" target=""/>
+            <linesegment x1="2853.57" y1="2536.97" x2="2853.57" y2="2606.57" type="Portal" target="A0093001_3168A"/>
+            <linesegment x1="2853.57" y1="2606.57" x2="2853.57" y2="2701.19" type="Wall" target=""/>
+            <linesegment x1="2853.57" y1="2701.19" x2="2732.4" y2="2701.19" type="Portal" target="A0093001_3170D"/>
+            <linesegment x1="2732.4" y1="2701.19" x2="2732.4" y2="2690.95" type="Wall" target=""/>
+            <linesegment x1="2732.4" y1="2690.95" x2="2702.5" y2="2690.95" type="Wall" target=""/>
+            <linesegment x1="2702.5" y1="2690.95" x2="2702.5" y2="2699.08" type="Wall" target=""/>
+            <linesegment x1="2702.5" y1="2699.08" x2="2624.41" y2="2699.31" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_3170A"/>
+        <portal target="A0093001_3170D"/>
+        <portal target="A0093001_3168A"/>
+        <portal target="A0093001_2150A"/>
+        <portal target="A0093001_3170B"/>
+        <portal target="A0093001_3164A"/>
+    </space>
+    <space name="A0093001_3171" type="">
+        <contour>
+            <centroid x="2859.43" y="3268.29"/>
+            <linesegment x1="2429.89" y1="3505" x2="2429.89" y2="3033.5" type="Wall" target=""/>
+            <linesegment x1="2429.89" y1="3033.5" x2="2733.17" y2="3033.5" type="Wall" target=""/>
+            <linesegment x1="2733.17" y1="3033.5" x2="2852.01" y2="3033.5" type="Portal" target="A0093001_3170D"/>
+            <linesegment x1="2852.01" y1="3033.5" x2="3280.75" y2="3033.5" type="Wall" target=""/>
+            <linesegment x1="3280.75" y1="3033.5" x2="3280.75" y2="3039.45" type="Wall" target=""/>
+            <linesegment x1="3280.75" y1="3039.45" x2="3289.94" y2="3039.45" type="Wall" target=""/>
+            <linesegment x1="3289.94" y1="3039.45" x2="3289.94" y2="3481.33" type="Wall" target=""/>
+            <linesegment x1="3289.94" y1="3481.33" x2="3282.09" y2="3481.33" type="Wall" target=""/>
+            <linesegment x1="3282.09" y1="3481.33" x2="3282.09" y2="3503.57" type="Wall" target=""/>
+            <linesegment x1="3282.09" y1="3503.57" x2="2878.84" y2="3503.57" type="Wall" target=""/>
+            <linesegment x1="2878.84" y1="3503.57" x2="2878.84" y2="3481.72" type="Wall" target=""/>
+            <linesegment x1="2878.84" y1="3481.72" x2="2846.85" y2="3481.72" type="Wall" target=""/>
+            <linesegment x1="2846.85" y1="3481.72" x2="2846.85" y2="3503.84" type="Wall" target=""/>
+            <linesegment x1="2846.85" y1="3503.84" x2="2429.89" y2="3505" type="Wall" target=""/>
+        </contour>
+    </space>
+    <space name="A0093001_3163" type="STÄLLVERK">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_3164A"/>
+        <portal target="A0093001_2158"/>
+    </space>
+    <space name="A0093001_3162B" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_3162A"/>
+    </space>
+    <space name="A0093001_3162A" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_3162B"/>
+        <portal target="A0093001_3164A"/>
+        <portal target="A0093001_3162"/>
+    </space>
+    <space name="A0093001_3162" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_3162A"/>
+        <portal target="A0093001_2158"/>
+    </space>
+    <space name="A0093001_2159" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2158"/>
+    </space>
+    <space name="A0093001_2158A" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2158"/>
+    </space>
+    <space name="A0093001_2160" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2158"/>
+    </space>
+    <space name="A0093001_2158" type="KORRIDOR">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_3162"/>
+        <portal target="A0093001_3163"/>
+        <portal target="A0093001_2159"/>
+        <portal target="A0093001_2158A"/>
+        <portal target="A0093001_2160"/>
+        <portal target="A0093001_2161"/>
+        <portal target="A0093001_2146A"/>
+    </space>
+    <space name="A0093001_2161" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2158"/>
+    </space>
+    <space name="A0093001_2157A" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2146A"/>
+    </space>
+    <space name="A0093001_2146A" type="">
+        <contour>
+            <centroid x="5868.54" y="4124.52"/>
+            <linesegment x1="5809.58" y1="4238.41" x2="5809.58" y2="3984.62" type="Wall" target=""/>
+            <linesegment x1="5809.58" y1="3984.62" x2="5809.58" y2="3895.42" type="Portal" target="A0093001_2157A"/>
+            <linesegment x1="5809.58" y1="3895.42" x2="5809.58" y2="3863.99" type="Wall" target=""/>
+            <linesegment x1="5809.58" y1="3863.99" x2="5927.23" y2="3863.99" type="Portal" target="A0093001_2158"/>
+            <linesegment x1="5927.23" y1="3863.99" x2="5927.23" y2="4228.15" type="Wall" target=""/>
+            <linesegment x1="5927.23" y1="4228.15" x2="5927.23" y2="4300.94" type="Portal" target="A0093001_2155"/>
+            <linesegment x1="5927.23" y1="4300.94" x2="5927.23" y2="4385.92" type="Wall" target=""/>
+            <linesegment x1="5927.23" y1="4385.92" x2="5810.7" y2="4385.92" type="Portal" target="A0093001_T21"/>
+            <linesegment x1="5810.7" y1="4385.92" x2="5810.7" y2="4379.47" type="Wall" target=""/>
+            <linesegment x1="5810.7" y1="4379.47" x2="5810.7" y2="4293.26" type="Portal" target="A0093001_2150A"/>
+            <linesegment x1="5810.7" y1="4293.26" x2="5809.58" y2="4238.41" type="Wall" target=""/>
+        </contour>
+        <portal target="A0093001_T21"/>
+        <portal target="A0093001_2150A"/>
+        <portal target="A0093001_2157A"/>
+        <portal target="A0093001_2158"/>
+        <portal target="A0093001_2155"/>
+    </space>
+    <space name="A0093001_T21" type="TRAPPA">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2146A"/>
+        <portal target="A0093001_2151"/>
+        <portal target="A0093001_H21"/>
+        <portal target="A0093001_2146"/>
+    </space>
+    <space name="A0093001_2151" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_T21"/>
+    </space>
+    <space name="A0093001_H21" type="HISS">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_T21"/>
+    </space>
+    <space name="A0093001_2153C" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2153B"/>
+    </space>
+    <space name="A0093001_2153B" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2153D"/>
+        <portal target="A0093001_2153C"/>
+        <portal target="A0093001_2153A"/>
+        <portal target="A0093001_2155"/>
+    </space>
+    <space name="A0093001_2153D" type="TOALETT">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2153B"/>
+    </space>
+    <space name="A0093001_2153A" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2153B"/>
+        <portal target="A0093001_2154A"/>
+        <portal target="A0093001_2146"/>
+    </space>
+    <space name="A0093001_2154A" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2153A"/>
+        <portal target="A0093001_2155"/>
+    </space>
+    <space name="A0093001_2154B" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2155A"/>
+    </space>
+    <space name="A0093001_2155A" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2154B"/>
+        <portal target="A0093001_2154E"/>
+        <portal target="A0093001_2155"/>
+    </space>
+    <space name="A0093001_2154E" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2155A"/>
+    </space>
+    <space name="A0093001_2154F" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2155"/>
+    </space>
+    <space name="A0093001_2156A" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2155"/>
+    </space>
+    <space name="A0093001_2156" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2155"/>
+    </space>
+    <space name="A0093001_2154G" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2155"/>
+    </space>
+    <space name="A0093001_2155" type="KORRIDOR">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2146A"/>
+        <portal target="A0093001_2153B"/>
+        <portal target="A0093001_2154A"/>
+        <portal target="A0093001_2155A"/>
+        <portal target="A0093001_2154F"/>
+        <portal target="A0093001_2154G"/>
+        <portal target="A0093001_2156"/>
+        <portal target="A0093001_2156A"/>
+    </space>
+    <space name="A0093001_2150B" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2150C"/>
+    </space>
+    <space name="A0093001_2150C" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2150B"/>
+        <portal target="A0093001_2146"/>
+    </space>
+    <space name="A0093001_2149H" type="TOALETT">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2149A"/>
+    </space>
+    <space name="A0093001_2149F" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2149A"/>
+    </space>
+    <space name="A0093001_2149D" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2149A"/>
+    </space>
+    <space name="A0093001_2149B" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2149A"/>
+        <portal target="A0093001_2146"/>
+    </space>
+    <space name="A0093001_2149A" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2149H"/>
+        <portal target="A0093001_2149F"/>
+        <portal target="A0093001_2149D"/>
+        <portal target="A0093001_2149B"/>
+    </space>
+    <space name="A0093001_2149I" type="TOALETT">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2149"/>
+    </space>
+    <space name="A0093001_2149G" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2149"/>
+    </space>
+    <space name="A0093001_2149E" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2149"/>
+    </space>
+    <space name="A0093001_2149C" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2149"/>
+        <portal target="A0093001_2146"/>
+    </space>
+    <space name="A0093001_2149" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2149I"/>
+        <portal target="A0093001_2149G"/>
+        <portal target="A0093001_2149E"/>
+        <portal target="A0093001_2149C"/>
+        <portal target="A0093001_2148"/>
+    </space>
+    <space name="A0093001_2148" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2149"/>
+        <portal target="A0093001_2146"/>
+    </space>
+    <space name="A0093001_2146" type="KORRIDOR">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_T21"/>
+        <portal target="A0093001_2150C"/>
+        <portal target="A0093001_2149B"/>
+        <portal target="A0093001_2149C"/>
+        <portal target="A0093001_2148"/>
+        <portal target="A0093001_2153A"/>
+        <portal target="A0093001_2147A"/>
+        <portal target="A0093001_2173"/>
+    </space>
+    <space name="A0093001_2147B" type="TOALETT">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0093001_2147C" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0093001_2147A" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2146"/>
+    </space>
+    <space name="A0093001_2173" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_2146"/>
+    </space>
+    <space name="A0093001_1138B" type="TOALETT">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_1138A"/>
+    </space>
+    <space name="A0093001_1138C" type="TOALETT">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_1138A"/>
+    </space>
+    <space name="A0093001_1138A" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0093001_1138B"/>
+        <portal target="A0093001_1138C"/>
+    </space>
+</floor>

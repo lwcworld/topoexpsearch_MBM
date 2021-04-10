@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<floor BuildingName="A0043006" FloorName="50023964">
+    <Domain name="KTH"/>
+    <Scale PixelDistance="-1" RealDistance="-1"/>
+    <space name="A0043006_3501" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043006_3502"/>
+        <portal target="A0043006_000"/>
+    </space>
+    <space name="A0043006_3502" type="STAIRS">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043006_3501"/>
+    </space>
+    <space name="A0043006_000" type="H5">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043006_3501"/>
+    </space>
+    <space name="A0043006_2401" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043006_001"/>
+        <portal target="A0043006_14"/>
+        <portal target="A0043006_13"/>
+        <portal target="A0043006_2402"/>
+        <portal target="A0043006_2408"/>
+    </space>
+    <space name="A0043006_13" type="STAIRS">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043006_2401"/>
+    </space>
+    <space name="A0043006_14" type="TOALETT">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043006_2401"/>
+    </space>
+    <space name="A0043006_001" type="H6">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043006_2401"/>
+    </space>
+    <space name="A0043006_03" type="TOALETT">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043006_2402"/>
+    </space>
+    <space name="A0043006_2402" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043006_2401"/>
+        <portal target="A0043006_03"/>
+        <portal target="A0043006_2405"/>
+        <portal target="A0043006_2404"/>
+    </space>
+    <space name="A0043006_2405" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043006_2402"/>
+    </space>
+    <space name="A0043006_2406" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043006_2404"/>
+    </space>
+    <space name="A0043006_2407" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043006_2404"/>
+    </space>
+    <space name="A0043006_2404" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043006_2402"/>
+        <portal target="A0043006_2406"/>
+        <portal target="A0043006_2407"/>
+        <portal target="A0043006_2408"/>
+    </space>
+    <space name="A0043006_2408" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043006_2404"/>
+        <portal target="A0043006_2401"/>
+        <portal target="A0043006_09"/>
+        <portal target="A0043006_10"/>
+        <portal target="A0043006_11"/>
+        <portal target="A0043006_2412"/>
+        <portal target="A0043006_4305"/>
+    </space>
+    <space name="A0043006_09" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043006_2408"/>
+    </space>
+    <space name="A0043006_10" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043006_2408"/>
+    </space>
+    <space name="A0043006_11" type="EL">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043006_2408"/>
+    </space>
+    <space name="A0043006_2412" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043006_2408"/>
+    </space>
+    <space name="A0043006_4305" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043006_2408"/>
+    </space>
+    <space name="A0043006_4402" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043006_4502" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043006_4309" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043006_5209" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043006_003" type="H3">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043006_5501" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043006_5401" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043006_5402" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+    </space>
+    <space name="A0043006_7303" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043006_8502"/>
+    </space>
+    <space name="A0043006_8502" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043006_7303"/>
+    </space>
+    <space name="A0043006_8501" type="FLÄKTRUM">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043006_8417"/>
+        <portal target="A0043006_8503"/>
+    </space>
+    <space name="A0043006_8503" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043006_8501"/>
+    </space>
+    <space name="A0043006_8417" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043006_8501"/>
+    </space>
+</floor>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<floor>
+    <Domain name="KTH"/>
+    <Scale PixelDistance="-1" realDistance="-1"/>
+    <space name="ENTRE" type="UNKNOWN">
+        <contour/>
+        <space name="RECEPTION" type="UNKNOWN">
+            <contour/>
+        </space>
+    </space>
+</floor>

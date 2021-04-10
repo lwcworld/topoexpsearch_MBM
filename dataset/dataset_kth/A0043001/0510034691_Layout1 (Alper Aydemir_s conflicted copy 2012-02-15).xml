@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<floor BuildingName="A0043001" FloorName="/Users/aydemir/Dropbox/KTH_CampusValhallavagen_Floorplan_Dataset_RAW/A0043001/0510034691_Layout1">
+    <Domain name="KTH"/>
+    <Scale PixelDistance="606.697" realDistance="3"/>
+    <space name="A0043001_127" type="UNKNOWN">
+        <contour>
+            <linesegment x1="6601.48" y1="4202.83" x2="6608.41" y2="4630.75" type="Wall" target=""/>
+            <linesegment x1="6608.41" y1="4630.75" x2="6742.57" y2="4640" type="Wall" target=""/>
+            <linesegment x1="6742.57" y1="4640" x2="7052.52" y2="4633.06" type="Window" target=""/>
+            <linesegment x1="7052.52" y1="4633.06" x2="7223.69" y2="4635.37" type="Wall" target=""/>
+            <linesegment x1="7223.69" y1="4635.37" x2="7228.31" y2="4110.31" type="Wall" target=""/>
+            <linesegment x1="7228.31" y1="4110.31" x2="7156.61" y2="4108" type="Wall" target=""/>
+            <linesegment x1="7156.61" y1="4108" x2="7015.51" y2="4110.31" type="Portal" target="A0043001_127"/>
+            <linesegment x1="7015.51" y1="4110.31" x2="6966.94" y2="4108" type="Wall" target="A0043001_127"/>
+            <linesegment x1="6966.94" y1="4108" x2="6964.63" y2="4195.89" type="Wall" target="A0043001_127"/>
+            <linesegment x1="6964.63" y1="4195.89" x2="6601.48" y2="4202.83" type="Wall" target="A0043001_127"/>
+        </contour>
+        <portal target="A0043001_127"/>
+        <portal target="A0043001_127"/>
+        <portal target="A0043001_116"/>
+    </space>
+    <space name="A0043001_116" type="UNKNOWN">
+        <contour>
+            <linesegment x1="5889.05" y1="2750.23" x2="5889.05" y2="3543.61" type="Wall" target="A0043001_127"/>
+            <linesegment x1="5889.05" y1="3543.61" x2="6150.43" y2="3541.3" type="Wall" target="A0043001_127"/>
+            <linesegment x1="6150.43" y1="3541.3" x2="6286.9" y2="3538.98" type="Portal" target="A0043001_127"/>
+            <linesegment x1="6286.9" y1="3538.98" x2="6548.28" y2="3538.98" type="Wall" target="A0043001_127"/>
+            <linesegment x1="6548.28" y1="3538.98" x2="6550.59" y2="3215.15" type="Wall" target="A0043001_127"/>
+            <linesegment x1="6550.59" y1="3215.15" x2="6552.9" y2="3076.37" type="Window" target="A0043001_127"/>
+            <linesegment x1="6552.9" y1="3076.37" x2="6550.59" y2="2752.54" type="Wall" target="A0043001_127"/>
+            <linesegment x1="6550.59" y1="2752.54" x2="6423.37" y2="2747.92" type="Wall" target="A0043001_127"/>
+            <linesegment x1="6423.37" y1="2747.92" x2="6115.73" y2="2747.92" type="Window" target="A0043001_127"/>
+            <linesegment x1="6115.73" y1="2747.92" x2="5889.05" y2="2750.23" type="Window" target="A0043001_127"/>
+        </contour>
+        <portal target="A0043001_127"/>
+    </space>
+</floor>

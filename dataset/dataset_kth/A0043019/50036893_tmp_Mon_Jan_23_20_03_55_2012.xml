@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<floor BuildingName="A0043019" FloorName="50036893">
+    <Domain name="KTH"/>
+    <Scale PixelDistance="-1" RealDistance="-1"/>
+    <space name="A0043019_149" type="TRAPPA">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_116"/>
+    </space>
+    <space name="A0043019_147" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_116"/>
+    </space>
+    <space name="A0043019_145" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_116"/>
+    </space>
+    <space name="A0043019_143" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_116"/>
+    </space>
+    <space name="A0043019_141" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_139B"/>
+        <portal target="A0043019_116"/>
+    </space>
+    <space name="A0043019_139B" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_141"/>
+        <portal target="A0043019_139A"/>
+    </space>
+    <space name="A0043019_139A" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_139B"/>
+        <portal target="A0043019_135"/>
+    </space>
+    <space name="A0043019_135" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_139A"/>
+        <portal target="A0043019_116"/>
+    </space>
+    <space name="A0043019_133" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_116"/>
+    </space>
+    <space name="A0043019_131" type="TELE">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_116"/>
+    </space>
+    <space name="A0043019_129" type="EL">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_116"/>
+    </space>
+    <space name="A0043019_123" type="U-CENT.">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_116"/>
+    </space>
+    <space name="A0043019_121" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_116"/>
+    </space>
+    <space name="A0043019_119A" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_119B"/>
+        <portal target="A0043019_119C"/>
+        <portal target="A0043019_119D"/>
+        <portal target="A0043019_116"/>
+    </space>
+    <space name="A0043019_119B" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_119A"/>
+    </space>
+    <space name="A0043019_119C" type="TOALETT">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_119A"/>
+    </space>
+    <space name="A0043019_119D" type="TOALETT">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_119A"/>
+    </space>
+    <space name="A0043019_111A" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_116"/>
+        <portal target="A0043019_111B"/>
+        <portal target="A0043019_106"/>
+    </space>
+    <space name="A0043019_116" type="KORRIDOR">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_149"/>
+        <portal target="A0043019_147"/>
+        <portal target="A0043019_145"/>
+        <portal target="A0043019_143"/>
+        <portal target="A0043019_141"/>
+        <portal target="A0043019_135"/>
+        <portal target="A0043019_133"/>
+        <portal target="A0043019_131"/>
+        <portal target="A0043019_129"/>
+        <portal target="A0043019_123"/>
+        <portal target="A0043019_121"/>
+        <portal target="A0043019_119A"/>
+        <portal target="A0043019_111A"/>
+        <portal target="A0043019_106"/>
+    </space>
+    <space name="A0043019_111B" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_111A"/>
+    </space>
+    <space name="A0043019_106" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_111A"/>
+        <portal target="A0043019_116"/>
+        <portal target="A0043019_107"/>
+        <portal target="A0043019_105A"/>
+        <portal target="A0043019_101"/>
+        <portal target="A0043019_152A"/>
+    </space>
+    <space name="A0043019_109A" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_109C"/>
+        <portal target="A0043019_109B"/>
+        <portal target="A0043019_107"/>
+    </space>
+    <space name="A0043019_109C" type="TOALETT">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_109A"/>
+    </space>
+    <space name="A0043019_109B" type="TOALETT">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_109A"/>
+    </space>
+    <space name="A0043019_107A" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_107B"/>
+        <portal target="A0043019_107C"/>
+        <portal target="A0043019_107"/>
+    </space>
+    <space name="A0043019_107B" type="TOALETT">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_107A"/>
+    </space>
+    <space name="A0043019_107C" type="TOALETT">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_107A"/>
+    </space>
+    <space name="A0043019_107" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_109A"/>
+        <portal target="A0043019_107A"/>
+        <portal target="A0043019_105B"/>
+        <portal target="A0043019_106"/>
+    </space>
+    <space name="A0043019_105B" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_107"/>
+    </space>
+    <space name="A0043019_105A" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_106"/>
+    </space>
+    <space name="A0043019_101" type="DRIFT">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_106"/>
+    </space>
+    <space name="A0043019_152A" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_106"/>
+        <portal target="A0043019_152C"/>
+        <portal target="A0043019_152B"/>
+        <portal target="A0043019_151A"/>
+        <portal target="A0043019_154"/>
+        <portal target="A0043019_151B"/>
+    </space>
+    <space name="A0043019_152C" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_152A"/>
+    </space>
+    <space name="A0043019_152B" type="HISS">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_152A"/>
+    </space>
+    <space name="A0043019_151A" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_152A"/>
+    </space>
+    <space name="A0043019_154" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_152A"/>
+        <portal target="A0043019_186C"/>
+    </space>
+    <space name="A0043019_151B" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_152A"/>
+        <portal target="A0043019_153A"/>
+    </space>
+    <space name="A0043019_153B" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_153A"/>
+    </space>
+    <space name="A0043019_155" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_153A"/>
+    </space>
+    <space name="A0043019_157" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_153A"/>
+    </space>
+    <space name="A0043019_161" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_153A"/>
+    </space>
+    <space name="A0043019_163" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_153A"/>
+    </space>
+    <space name="A0043019_165" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_153A"/>
+    </space>
+    <space name="A0043019_167" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_153A"/>
+    </space>
+    <space name="A0043019_169" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_153A"/>
+    </space>
+    <space name="A0043019_153A" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_151B"/>
+        <portal target="A0043019_153B"/>
+        <portal target="A0043019_155"/>
+        <portal target="A0043019_157"/>
+        <portal target="A0043019_161"/>
+        <portal target="A0043019_163"/>
+        <portal target="A0043019_165"/>
+        <portal target="A0043019_167"/>
+        <portal target="A0043019_169"/>
+        <portal target="A0043019_171A"/>
+    </space>
+    <space name="A0043019_171A" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_153A"/>
+        <portal target="A0043019_171B"/>
+    </space>
+    <space name="A0043019_171B" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_171A"/>
+        <portal target="A0043019_171"/>
+        <portal target="A0043019_185A"/>
+    </space>
+    <space name="A0043019_171" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_171B"/>
+    </space>
+    <space name="A0043019_185A" type="">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_171B"/>
+        <portal target="A0043019_186A"/>
+    </space>
+    <space name="A0043019_186A" type="PASSAGE">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_185A"/>
+        <portal target="A0043019_185B"/>
+        <portal target="A0043019_186B"/>
+    </space>
+    <space name="A0043019_185B" type="TRAPPA">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_186A"/>
+    </space>
+    <space name="A0043019_186B" type="KYLCENTRAL">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_186A"/>
+        <portal target="A0043019_186C"/>
+    </space>
+    <space name="A0043019_186C" type="KVÄVGASGENERATDR">
+        <contour>
+            <centroid x="-1" y="-1"/>
+        </contour>
+        <portal target="A0043019_186B"/>
+        <portal target="A0043019_154"/>
+    </space>
+</floor>
