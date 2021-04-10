@@ -7,7 +7,6 @@ dir_in = '../dataset/dataset_graph_floorplan_json/'
 dir_out_PO = '../dataset/dataset_PO_floorplan_c5/'
 dir_out_label = '../dataset/dataset_label_floorplan_c5/'
 
-
 # load one graph and feature from NCI1 data
 list_data = list(range(0,20))
 i_s = 0
