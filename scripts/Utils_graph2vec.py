@@ -1,10 +1,8 @@
 import json
-import glob
 import hashlib
 import pandas as pd
 import networkx as nx
-from tqdm import tqdm
-from joblib import Parallel, delayed
+
 from gensim.models.doc2vec import Doc2Vec, TaggedDocument
 
 class WeisfeilerLehmanMachine:
@@ -101,41 +99,3 @@ def save_embedding(output_path, model, files, dimensions):
     out = pd.DataFrame(out, columns=column_names)
     out = out.sort_values(["type"])
     out.to_csv(output_path, index=None)
-
-
-if __name__ == "__main__":
-    """
-    Main function to read the graph list, extract features.
-    Learn the embedding and save it.
-    :param args: Object with the arguments.
-    """
-    args = {'input_path': '../dataset/dataset_PO_floorplan_c5/',
-            'output_path': '../dataset/feature_PO_floorplan_c5/dim4.csv',
-            'dimensions': 4,
-            'workers': 8,
-            'epochs': 100,
-            'min_count': 0,
-            'wl_iterations': 2,
-            'learning_rate': 0.025,
-            'down_sampling': 0.0001}
-
-    graphs = glob.glob(args['input_path'] + "*.json")
-    print("\nFeature extraction started.\n")
-    document_collections = Parallel(n_jobs=args['workers'])(
-        delayed(feature_extractor)(g, args['wl_iterations']) for g in tqdm(graphs))
-    print("\nOptimization started.\n")
-
-    model = Doc2Vec(document_collections,
-                    vector_size=args['dimensions'],
-                    window=0,
-                    min_count=args['min_count'],
-                    dm=0,
-                    sample=args['down_sampling'],
-                    workers=args['workers'],
-                    epochs=args['epochs'],
-                    alpha=args['learning_rate'])
-
-    model.save('../dataset/model/model_embedding')
-    save_embedding(args['output_path'], model, graphs, args['dimensions'])
-    print('finished!!')
-

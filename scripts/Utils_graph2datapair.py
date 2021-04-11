@@ -95,14 +95,12 @@ def get_seq_nodesets(G, walk):
             prev_nodesets.append(prev_nodeset_c)
     return prev_nodesets, current_nodeset
 
-
 def get_bfstree(graph, feature, root, depth_limit):
     graph_c = copy.deepcopy(graph)
     graph_bfs = nx.bfs_tree(graph_c, root, depth_limit=depth_limit)
     nodes_bfs = graph_bfs.nodes
     feature_bfs = {key: feature[key] for key in nodes_bfs}
     return graph_bfs, feature_bfs
-
 
 def decompose_tree_graph(graph, feature):
     # G is directed tree graph

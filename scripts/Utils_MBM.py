@@ -273,7 +273,6 @@ def accuracy_marginal_prob(class_true, marginal_probs_with_0):
 
 def eval(model, X, Y, C, d2o, Tau_binary, subset_tau, N_class):
     N_d = np.shape(X)[0]
-
     mp_w0_d = get_predicted_prob(model, X, Tau_binary, subset_tau, N_class)
     C_pred_d = np.argmax(mp_w0_d, axis=1)
 

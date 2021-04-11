@@ -1,4 +1,4 @@
-from Utiles_graph2datapair import *
+from Utils_graph2datapair import *
 
 np.random.seed(101)
 
