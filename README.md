@@ -13,16 +13,15 @@
 # Node
 ## Service (EST_server)
 ### input arguments
-- map (nav_msgs/OccupancyGrid)
-- node_values (sensor_msgs/PointCloud)
-- start (geometry_msgs/Point32)
+- navigation network (std_msgs/String)
+- interest node (int32)
 
 ### return
-- path (nav_msgs/Path)
+- marginal probability of hypothetical node (std_msgs/String)
 
 # How to run
 - EST server \
-``` rosrun topoexpsearch_planner srv_EST.py ```
+``` rosrun topoexpsearch_MBM srv_MBM.py ```
 
 - server call example \
-``` call_EST.py ```
+``` call_MBM.py ```
