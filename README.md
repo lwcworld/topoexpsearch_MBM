@@ -1,4 +1,3 @@
-
 # About
 - provides service node which return exploratory-search path 
 

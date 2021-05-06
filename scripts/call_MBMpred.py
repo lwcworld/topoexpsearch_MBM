@@ -2,14 +2,16 @@ import networkx as nx
 import rospy
 from topoexpsearch_MBM.srv import pred_MBM
 from std_msgs.msg import String
+import ast
+import numpy as np
 
 NN = nx.Graph()
-NN.add_nodes_from([(0, {'pos': (-28., 0.), 'type': 3, 'is_robot': True, 'to_go': False, 'value': 0}),
+NN.add_nodes_from([(0, {'pos': (-28., 0.), 'type': 1, 'is_robot': True, 'to_go': False, 'value': 0}),
                    (1, {'pos': (-35., 0.), 'type': 2, 'is_robot': False, 'to_go': True, 'value': 0.1}),
-                   (2, {'pos': (-28., 5.), 'type': 1, 'is_robot': False, 'to_go': True, 'value': 0.9}),
-                   (3, {'pos': (-28., -5.), 'type': 2, 'is_robot': False, 'to_go': True, 'value': 0.1}),
-                   (4, {'pos': (-21., 0.), 'type': 1, 'is_robot': False, 'to_go': True, 'value': 0.1})])
-NN.add_edges_from([(0, 1), (0, 2), (0, 3), (0, 4)])
+                   (2, {'pos': (-28., 5.), 'type': 3, 'is_robot': False, 'to_go': True, 'value': 0.9}),
+                   (3, {'pos': (-28., -5.), 'type': 3, 'is_robot': False, 'to_go': True, 'value': 0.1}),
+                   (4, {'pos': (-21., 0.), 'type': 3, 'is_robot': False, 'to_go': True, 'value': 0.1})])
+NN.add_edges_from([(0, 1), (1,2), (2, 3), (3, 4)])
 
 # convert NN to dict
 dict_G = {}
@@ -20,10 +22,12 @@ dict_G["features"] = C
 
 msg_NN_jsonstr = String()
 msg_NN_jsonstr.data = str(dict_G)
-node = 1
+node = 0
 
 rospy.wait_for_service('pred_MBM')
-srv_pred_MBM = rospy.ServiceProxy('pred_MBM', pred_MBM)
-output = srv_pred_MBM(msg_NN_jsonstr, node)
-
-print(output)
+for i in range(0,3):
+    srv_pred_MBM = rospy.ServiceProxy('pred_MBM', pred_MBM)
+    output = srv_pred_MBM(msg_NN_jsonstr, node)
+    MP = ast.literal_eval(output.marginal_probs.data)
+    print(MP)
+    print(np.argmax(MP))
