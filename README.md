@@ -11,7 +11,7 @@
 - tensorflow 2.3.0
 
 # Node
-## Service (EST_server)
+## Service (MBM_server)
 ### input arguments
 - navigation network (std_msgs/String)
 - interest node (int32)
