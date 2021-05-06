@@ -3,7 +3,7 @@ import hashlib
 import pandas as pd
 import networkx as nx
 
-from gensim.models.doc2vec import Doc2Vec, TaggedDocument
+from gensim.models.doc2vec import TaggedDocument
 
 class WeisfeilerLehmanMachine:
     """

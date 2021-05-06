@@ -13,7 +13,7 @@ from tabulate import tabulate
 # do toggle
 do_construct_Tau = False
 do_preprocess = True
-do_train_model = False
+do_train_model = True
 do_eval = True
 do_show_eval_result = True
 
@@ -120,17 +120,17 @@ with tf.device("/GPU:0"):
     if do_eval==True:
         print('evaluation start')
         acc_l_d_train, acc_mp_d_train, acc_l_o_train, acc_mp_o_train = eval(model,
-                                                                            X_train[0:10],
-                                                                            Y_train[0:10],
-                                                                            C_train[0:10],
-                                                                            d2o_train[0:10],
+                                                                            X_train,
+                                                                            Y_train,
+                                                                            C_train,
+                                                                            d2o_train,
                                                                             Tau_binary, subset_tau, N_class)
         print('train data evaluation done')
         acc_l_d_test, acc_mp_d_test, acc_l_o_test, acc_mp_o_test = eval(model,
-                                                                        X_test[0:10],
-                                                                        Y_test[0:10],
-                                                                        C_test[0:10],
-                                                                        d2o_test[0:10],
+                                                                        X_test,
+                                                                        Y_test,
+                                                                        C_test,
+                                                                        d2o_test,
                                                                         Tau_binary, subset_tau, N_class)
         print('test data evaluation done')
         np.save(dir_eval + 'acc_l_d_train_lv' + str(level) + '_iter' + str(i_mc), acc_l_d_train)

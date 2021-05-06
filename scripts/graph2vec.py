@@ -2,6 +2,7 @@ from Utils_graph2vec import *
 import glob
 from tqdm import tqdm
 from joblib import Parallel, delayed
+from gensim.models.doc2vec import Doc2Vec
 
 if __name__ == "__main__":
     """
@@ -30,7 +31,7 @@ if __name__ == "__main__":
                     window=0,
                     min_count=args['min_count'],
                     dm=0,
-                    sample=args['down_sampling'],
+                    # sample=args['down_sampling'],
                     workers=args['workers'],
                     epochs=args['epochs'],
                     alpha=args['learning_rate'])

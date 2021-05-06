@@ -1,5 +1,0 @@
-nav_msgs/OccupancyGrid map
-sensor_msgs/PointCloud node_values
-geometry_msgs/Point32 start
----
-nav_msgs/Path path
