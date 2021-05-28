@@ -23,7 +23,7 @@ class cb_srv():
         # path
         dir_package = '/home/lwcubuntu/workspaces/topoexpsearch/src/topoexpsearch_MBM/'
         path_embedding_model = dir_package + 'dataset/model/graph_embedding/model_embedding_dim' + str(self.dim)
-        path_MBM_architecture = dir_package + 'dataset/model/MBM/arc_lv4_iter4.json'
+        path_MBM_architecture = dir_package + 'dataset/model/MBM/arc_lv4_iter2.json'
         dir_param = dir_package + 'dataset/param_c5/'
 
         # load graph2vec model

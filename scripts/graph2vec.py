@@ -12,9 +12,9 @@ if __name__ == "__main__":
     """
     args = {'input_path': '../dataset/dataset_PO_floorplan_c5/',
             'output_path': '../dataset/feature_PO_floorplan_c5/dim8.csv',
-            'dimensions': 8,
-            'workers': 8,
-            'epochs': 100,
+            'dimensions': 64,
+            'workers': 4,
+            'epochs': 30,
             'min_count': 0,
             'wl_iterations': 2,
             'learning_rate': 0.025,
