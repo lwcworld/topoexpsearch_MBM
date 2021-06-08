@@ -3,39 +3,39 @@ import os
 print(os.getcwd())
 import rospy
 from topoexpsearch_MBM.srv import pred_MBM
-from gensim.models.doc2vec import Doc2Vec
-from keras.models import model_from_json
-from Utils_MBM import *
-from Utils_graph2datapair import *
-from Utils_graph2vec import *
+from Utils import *
 from std_msgs.msg import String
 from ast import literal_eval
-
-
 
 class cb_srv():
     def __init__(self):
         # param
-        self.dim = 8
+        self.dim = 32
         self.N_class = 5
         self.level = 4
+        self.wl_iterations = 10
+        self.place_category = {1: 'office', 2: 'corridor', 3: 'share', 4: 'maintenance', 5: 'toilet'}
 
         # path
         dir_package = '/home/lwcubuntu/workspaces/topoexpsearch/src/topoexpsearch_MBM/'
-        path_embedding_model = dir_package + 'dataset/model/graph_embedding/model_embedding_dim' + str(self.dim)
-        path_MBM_architecture = dir_package + 'dataset/model/MBM/arc_lv4_iter2.json'
-        dir_param = dir_package + 'dataset/param_c5/'
+        dir_model = dir_package + 'model/'
+        dir_model_G2V = dir_model + 'G2V/'
+        dir_model_MBM = dir_model + 'MBM/'
+        dir_MBM_param = dir_model + 'MBM/param/'
 
-        # load graph2vec model
-        self.model_embedding = Doc2Vec.load(path_embedding_model)
+        path_embedding_model =  dir_model_G2V + 'model_embedding_dim' + str(self.dim)
+        path_X_bound =  dir_model_G2V + 'X_bound_lv' + str(self.level) + '_dim' + str(self.dim) + '.npy'
+        path_MBM_architecture =  dir_model_MBM + 'arc_lv4_iter0.json'
+        path_MBM_weights =  dir_model_MBM + 'weight_lv4_iter0.h5'
+        path_param_Tau_binary =  dir_MBM_param + 'Tau_binary_lv' + str(self.level) + '.npy'
+        path_param_subset_tau =  dir_MBM_param + 'subset_tau_lv' + str(self.level) + '.npy'
 
-        # load MBM model
-        with open(path_MBM_architecture, 'r') as json_file:
-            self.model_MBM = model_from_json(json_file.read(), custom_objects={'exp_advanced': exp_advanced})
+        self.feature_bound = np.load(path_X_bound)
 
-        # load MBM model params
-        self.Tau_binary = np.load(dir_param + 'Tau_binary_lv' + str(self.level) + '.npy')
-        self.subset_tau = np.load(dir_param + 'subset_tau_lv' + str(self.level) + '.npy')
+        self.model_embedding, self.model_MBM = get_models(path_embedding_model, path_MBM_architecture, path_MBM_weights)
+
+        self.Tau_binary = np.load(path_param_Tau_binary)
+        self.subset_tau = np.load(path_param_subset_tau)
 
     def handle_predMBM(self, msg):
         NN_jsonstr = msg.NN_jsonstr.data # navigation network (json string type)
@@ -52,43 +52,35 @@ class cb_srv():
         for k, v in features.items():
             NN.nodes[k]['type'] = v
 
-        # preprocess networkx NN
-        # add hypothetical node
-        h = len(NN.nodes())  # hypothesis node
-        NN_H = copy.deepcopy(NN)
-        NN_H.add_nodes_from([(h, {'type': 0})])
-        NN_H.add_edges_from([(s, h)])
+        # HGC
+        NN_H = HGC(NN, s)
 
-        # get node feature (type)
-        feature = nx.get_node_attributes(NN_H, 'type')
-        for k, v in feature.items():
-            feature[k] = str(v)
-
-        # get tree graph & feature
+        # bfs tree
+        feature = get_feature(NN_H)
+        h = len(NN_H.nodes()) - 1
         tree_graph, feature = get_bfstree(NN_H, feature, root=h, depth_limit=3)
 
         # decompose
         dG_list, df_list = decompose_tree_graph(tree_graph, feature)
-        print('--------')
-        print(tree_graph.nodes())
-        for dG, df in zip(dG_list,df_list):
-            print(dG.nodes())
-            print(df)
 
         # graph2vec predict
-        wl_iterations = 2
-        vec_array = np.zeros((len(dG_list), self.dim))
-        for iter, (dG, df) in enumerate(zip(dG_list, df_list)):
-            machine = WeisfeilerLehmanMachine(dG, df, wl_iterations)
-            wl_feature = TaggedDocument(words=machine.extracted_features, tags=["g_" + '0'])
-            vec = self.model_embedding.infer_vector(wl_feature[0])
-            vec_array[iter] = vec
+        X_d_list = predict_G2V(self.model_embedding, dG_list, df_list, self.wl_iterations, self.dim)
 
-        mp_d = get_predicted_prob(self.model_MBM, vec_array, self.Tau_binary, self.subset_tau, self.N_class)
-        mp_o = list(np.mean(mp_d, 0))
+        # normalize feature vector
+        X_d_norm_list = np.zeros(np.shape(X_d_list))
+        for i_X, X_d in enumerate(X_d_list):
+            X_d_norm_list[i_X] = normalize_feature(X_d, self.feature_bound)
+
+        # MBM prediction
+        mp_d = get_predicted_prob(self.model_MBM, X_d_norm_list, self.Tau_binary, self.subset_tau, self.N_class)
+        mp_o = np.mean(mp_d, 0)
 
         output = String()
-        output.data = str(mp_o)
+        MP_str = str(mp_o)
+        while '  ' in MP_str:
+            MP_str = str(MP_str).replace('  ', ' ')
+        MP_str = str(MP_str).replace(' ', ',')
+        output.data = MP_str
 
         return output
 
