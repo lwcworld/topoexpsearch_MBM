@@ -2,8 +2,8 @@
 import os
 print(os.getcwd())
 import rospy
-from topoexpsearch_MBM.srv import pred_MBM
-from Utils import *
+from topoexpsearch_MBM.srv import MBD_GSIM
+from Utils_MBD_GSIM import *
 from std_msgs.msg import String
 from ast import literal_eval
 
@@ -18,15 +18,15 @@ class cb_srv():
 
         # path
         dir_package = '/home/lwcubuntu/workspaces/topoexpsearch/src/topoexpsearch_MBM/'
-        dir_model = dir_package + 'model/'
+        dir_model = dir_package + 'model/MBD_GSIM/'
         dir_model_G2V = dir_model + 'G2V/'
         dir_model_MBM = dir_model + 'MBM/'
         dir_MBM_param = dir_model + 'MBM/param/'
 
         path_embedding_model =  dir_model_G2V + 'model_embedding_dim' + str(self.dim)
         path_X_bound =  dir_model_G2V + 'X_bound_lv' + str(self.level) + '_dim' + str(self.dim) + '.npy'
-        path_MBM_architecture =  dir_model_MBM + 'arc_lv4_iter0.json'
-        path_MBM_weights =  dir_model_MBM + 'weight_lv4_iter0.h5'
+        path_MBM_architecture =  dir_model_MBM + 'arc_lv4_iter1.json'
+        path_MBM_weights =  dir_model_MBM + 'weight_lv4_iter1.h5'
         path_param_Tau_binary =  dir_MBM_param + 'Tau_binary_lv' + str(self.level) + '.npy'
         path_param_subset_tau =  dir_MBM_param + 'subset_tau_lv' + str(self.level) + '.npy'
 
@@ -45,12 +45,15 @@ class cb_srv():
         NN = nx.from_edgelist(NN_json["edges"])
         if "features" in NN_json.keys():
             features = NN_json["features"]
-        # else:
-        #     features = nx.degree(NN)
         features = {int(k): v for k, v in features.items()}
 
         for k, v in features.items():
             NN.nodes[k]['type'] = v
+
+        edges = list(NN.edges())
+        for edge in edges:
+            if edge[0]==edge[1]:
+                NN.remove_edge(edge[0], edge[1])
 
         # HGC
         NN_H = HGC(NN, s)
@@ -88,5 +91,5 @@ if __name__ == '__main__':
     rospy.init_node('MBM_server')
     cb_srv = cb_srv()
 
-    s = rospy.Service('pred_MBM', pred_MBM, cb_srv.handle_predMBM)
+    s = rospy.Service('MBD_GSIM', MBD_GSIM, cb_srv.handle_predMBM)
     rospy.spin()

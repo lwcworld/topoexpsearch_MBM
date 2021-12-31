@@ -2,7 +2,7 @@ import networkx as nx
 import rospy
 from topoexpsearch_MBM.srv import pred_MBM
 import ast
-from Utils import *
+from Utils_MBD_GSIM import *
 
 
 # query

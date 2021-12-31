@@ -62,7 +62,10 @@ find_package(catkin REQUIRED COMPONENTS
 #   Service1.srv
 #   Service2.srv
 # )
-add_service_files(DIRECTORY srv FILES pred_MBM.srv)
+add_service_files(DIRECTORY srv 
+        FILES 
+        MBD_GSIM.srv
+        FSE.srv)
 
 
 ## Generate actions in the 'action' folder
